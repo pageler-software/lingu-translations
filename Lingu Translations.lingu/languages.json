@@ -1,0 +1,47 @@
+[
+  {
+    "id" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D",
+    "locale" : "de",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB",
+    "locale" : "en",
+    "referenceLanguageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8",
+    "locale" : "nl",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "4E1913EE-D8CB-421B-9237-AE40C27ACBE1",
+    "locale" : "fr",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "57912044-587A-4C52-98A5-9CE04E9A3D5B",
+    "locale" : "hi",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "59BED879-726A-488E-A0FD-6E0EA21B6656",
+    "locale" : "pl",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150",
+    "locale" : "pt",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "F05B992C-E438-4583-B7A1-B911071DAD7D",
+    "locale" : "es",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "C8B03203-137D-4C44-8C19-3D61A9C5257B",
+    "locale" : "sv",
+    "referenceLanguageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  }
+]

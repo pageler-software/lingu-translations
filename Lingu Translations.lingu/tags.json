@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "EFCE0A9D-40A8-4EB8-8AF2-A745430601D1",
+    "name" : "Main.strings"
+  },
+  {
+    "id" : "F41D2BA1-9832-4FFE-ADD7-7F4F9FFB3998",
+    "name" : "Localizable.strings"
+  },
+  {
+    "id" : "CF1DD0A3-68FE-4AD1-A1B3-922E9FF8FC8C",
+    "name" : "Import.strings"
+  },
+  {
+    "id" : "2ECAA2C4-E277-4265-B827-6F3E263DA081",
+    "name" : "App Store"
+  },
+  {
+    "id" : "A57F9173-FD73-4243-A2D1-75CCFC2FBC2E",
+    "name" : "Export.strings"
+  },
+  {
+    "id" : "39DB8E39-98A6-459D-98C9-AC3A8C91943E",
+    "name" : "Undo"
+  },
+  {
+    "id" : "ACCD2B3D-842C-4225-AD0B-01D15F727CEB",
+    "name" : "Alert"
+  }
+]

@@ -1,0 +1,1076 @@
+[
+  {
+    "id" : "E88CFAB7-A8B2-4C0D-A146-4FF7AF3C5D04",
+    "termID" : "01B8F995-6368-4424-8B04-77D37A8D71E6",
+    "value" : "Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A313F634-3FC3-44D7-9217-7A2D5E105359",
+    "termID" : "025C673D-68DB-4EAC-89B5-185B67257014",
+    "value" : "Visa verktygsfältet",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "CB357633-823A-40F8-90FE-4D0C15822BFC",
+    "termID" : "04DD7C85-75F0-4464-BC83-FC4416C4264D",
+    "value" : "Tilldela taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "30449776-FF32-4365-B269-B86D5777C4E8",
+    "termID" : "066C3E21-8DBC-44CE-B268-AF5C43BE3311",
+    "value" : "Välj din exportplats",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "4A839E8B-A752-48CC-A7A9-040761C370D1",
+    "termID" : "06E5A5E0-D9FF-4354-AD44-FD3D5F83FD41",
+    "value" : "Välj Taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "75BA0320-7858-4B8C-881D-3227FC54A06D",
+    "termID" : "088831AD-05D9-41F1-B2E9-545224E91034",
+    "value" : "Ta bort översättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "81CF6031-EC72-48DA-9956-D51649909A1F",
+    "termID" : "08D99BF1-0FA7-418C-B178-A046EA5CC90B",
+    "value" : "Importera…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "96F220B4-E4BD-449E-8124-751C9A81F472",
+    "termID" : "0AFFE9E2-B208-4B79-AF9F-EB8C51693578",
+    "value" : "Öppna Senaste",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B8D67293-E9E5-4DCD-B4F5-D1CEDED2D0F9",
+    "termID" : "0D2510DC-6330-434C-B3A5-8A1A3F3C3893",
+    "value" : "Fortsätta",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "564F4CC9-BDC6-473F-A068-E34DBB507909",
+    "termID" : "0E02C0D0-BE0A-4C07-A9D4-67ACA0BEF87E",
+    "value" : "Sök",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B44F845C-1B78-4AB9-9F57-E42F0E0F946F",
+    "termID" : "0E523BE3-E124-4E26-B8AD-E038FFDACDE3",
+    "value" : "Fönster",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1C61D8BE-13EE-46F5-BB5A-82BEA6C964BC",
+    "termID" : "0FAF6C4F-FD9F-427D-89A3-2FBF8F27795E",
+    "value" : "Inställningar…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "2D1593AA-ADC4-4671-9FA2-C5732B6BE331",
+    "termID" : "136821E2-08A8-43A2-9AF5-4D17C911BA8C",
+    "value" : "Börja tala",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0A7D1438-84FF-47BF-9DD0-0A411B1A54AE",
+    "termID" : "1630AA01-6E6E-4558-9ED0-6DDA34F24F23",
+    "value" : "Sök och ersätt…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "632BADAD-AB16-42C1-B782-1B104C426BB8",
+    "termID" : "17729AA3-0D0D-4B2C-B4F0-FB9B26CAB320",
+    "value" : "Importera åtgärd",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D44E65E3-D541-455F-B4C2-F1414E646BC7",
+    "termID" : "1BD5E5D5-C3B5-40D2-8159-AC70ED1B88B6",
+    "value" : "Tilldela taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6D51E253-0F33-4D85-AE50-6A7E8E5E9545",
+    "termID" : "1C325699-5240-4963-9998-D62A1F0B5CC8",
+    "value" : "Lås upp proffsen i %s",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "757DBAC4-0E15-4B59-8CE5-BCBBD6F1EA6E",
+    "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
+    "value" : "Ny tagg",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3DD1565F-CFF8-48F5-9151-347977C7CC14",
+    "termID" : "20951BFE-5488-4D4D-A811-A1F8896BCC8A",
+    "value" : "Radera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "FB9AC203-58F8-4CE7-B7C2-36BB026A1741",
+    "termID" : "2267B481-B96B-4025-821F-1772E4C1D54E",
+    "value" : "Visa ersättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1AAEEBE4-FAFA-4844-A80F-233E1A090400",
+    "termID" : "22A8A4BA-0F16-4991-A402-8917FF124CD0",
+    "value" : "Rätta stavning automatiskt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6D8DC9B5-5B61-4AD4-84B6-8615F1057A10",
+    "termID" : "23620136-3E58-414D-9214-02C30E466B63",
+    "value" : "Stavning och grammatik",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "29DC5A03-7AF3-4E7B-AB94-AD58C7F5ED07",
+    "termID" : "23682E07-57AD-4DFA-96C1-57952F7ACF79",
+    "value" : "Importera lokaliseringsfiler till Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "CBEC49DF-A27D-4B7F-934B-E5195E0BA9E4",
+    "termID" : "24EA51F1-CD8B-4FBF-AA04-C39C7EE14ACC",
+    "value" : "Avsluta Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D328D72F-4489-4BF0-8DC0-70726F009BD4",
+    "termID" : "277DFC79-45ED-4D4D-BDE6-F716E6ED93DA",
+    "value" : "Taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "00DD930F-1E2D-4BF7-AF67-78F386ABC58C",
+    "termID" : "2BD4EEE4-16CE-41B1-A59E-55DAA3A02DA7",
+    "value" : "Fortsätta",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F489A138-4B9D-4D13-8328-C810396ECB01",
+    "termID" : "2DD94E55-8590-4A20-8D6A-6B09EF982CF1",
+    "value" : "Avbryt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "61A081A2-2899-4E77-ADF0-46BE556127F3",
+    "termID" : "2E808426-77B6-4401-B0F8-97D980320EAC",
+    "value" : "Avbryt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "4AA2CDB3-7A10-4DE7-A0DE-EB5CD009DBE2",
+    "termID" : "2E81809A-07E0-4515-9174-3398127F9E7A",
+    "value" : "Textersättning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F30E3254-E702-49B5-9F1A-19D8F958AE11",
+    "termID" : "2FDB58F1-E1EC-42A0-BDC5-6366C337CF6C",
+    "value" : "%s Taggar tilldelade",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "4F38C1EF-FE1C-4F80-AD5B-06A9DDFF55F2",
+    "termID" : "308D28A7-06A8-49DF-90EB-15D9AD4D17CC",
+    "value" : "Detalj",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "BB1B3CFE-96B1-48E7-BBF8-C5C1154CB24F",
+    "termID" : "397AD980-D74B-4364-9003-A8F85FBB3FB3",
+    "value" : "Ta bort språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "587E51CC-C91D-4E60-A9BA-57418F11412E",
+    "termID" : "3B537FE1-FF88-4965-A921-B1CAB56ACE4B",
+    "value" : "Pro",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6E325C8F-E155-4812-9DE2-00DA739D09BB",
+    "termID" : "3B6E249C-DD17-4A87-A876-F074C913E220",
+    "value" : "Visa stavning och grammatik",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C9243678-A6C3-4957-8614-0FED67277DC7",
+    "termID" : "3CE9068B-56CE-4072-AA0F-8680C6338351",
+    "value" : "Sök",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "912028D8-C95A-44FE-B99D-C5840E177A79",
+    "termID" : "3CED0B43-E704-430A-B53B-5FE494F951EE",
+    "value" : "Du har varningar för några av de filer du vill importera. Ignorera och fortsätt importera?",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3FA43CE5-90B4-43BA-98A3-7C993DACAB1F",
+    "termID" : "3DB37ACB-2266-4C98-8D84-6021BB1FE9BD",
+    "value" : "Pro krävs",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5D854EB7-E121-45BF-92F1-7EA02435C6F1",
+    "termID" : "3DF8BB55-1C7D-48EF-A312-5C0DACA03E71",
+    "value" : "Tal",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "57E67CE2-E467-4CF7-A905-FA771CBB3A58",
+    "termID" : "40AE0698-5EC5-40B2-AAE3-28E4DA264E1F",
+    "value" : "Arkiv",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "933B8E3D-AD96-4D29-98A9-AD5E1854E32C",
+    "termID" : "4121857E-6BF3-4E42-B8D0-B2D6B61DE0B5",
+    "value" : "Visa endast valda taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "EAA87A52-2D3A-45E2-938B-223D38F0A043",
+    "termID" : "41765766-62F8-43A5-BD40-0045592FD38B",
+    "value" : "Stavning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "40042DD7-64CE-49A2-AB08-498B98046B83",
+    "termID" : "424D1101-2696-477E-A186-2B50B7C7CE68",
+    "value" : "Lingu är en app som gör det väldigt enkelt för dig att redigera dina översättningar och därmed erbjuder ett bra alternativ till större översättningsportaler som Phrase eller POEditor, där du måste betala pengar varje månad.\n\nLingu kommer från utvecklare för utvecklare (och även för dina andra teammedlemmar som hjälper dig att översätta), så det finns några speciella funktioner som kan övertyga dig om att låsa upp \"Pro\" -versionen. Utan att \"Pro\" är upplåst kan du testa Lingu med upp till 200 villkor utan ytterligare begränsningar och avgöra om Lingu uppfyller dina förväntningar.\n\nOm du är övertygad om Lingu, eller om du måste redigera mer än 200 termer, kan du aktivera \"Pro\" med ett engångsinköp i appen.\n\nÖversikt över de funktioner som Lingu erbjuder dig (med och utan \"Pro\"):\n\nOptimerad för VCS som Git\n• Lingu fungerar med .lingu-filer som du enkelt kan checka in i ditt förvar\n• .lingu-filerna är baserade på vanlig text och är därför lätta att förstå\n\nAutomatiska översättningar\n• Översätt automatiskt dina texter med Google Translate eller Apples ordlista\n\nLingu CLI\n• Automatisera din översättningsprocess med den inbyggda CLI\n• Detta gör det enkelt att importera och exportera översättningarna till dina projektfiler\n\nFormat som stöds för import \/ export:\n• Apple Strings (.strings)\n• Android XML (.xml)\n• Enkel JSON (.json)\n\nDitt format saknas? Det finns en funktion som du snabbt behöver, men Lingu erbjuder inte?\nSkriv ett meddelande till christoph@pageler-software.de",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "40385292-09AF-4F1A-A70F-E58C9A394263",
+    "termID" : "445CFB96-7E8B-44A9-BEB8-55EF0486DD01",
+    "value" : "Kontrollera stavning medan jag skriver",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "45647083-50A4-4470-B60A-327C5913CF7F",
+    "termID" : "4C1AA470-65F1-4AAA-BDC9-F16D995AF9B8",
+    "value" : "Ta bort översättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F07426F5-A067-413C-80AC-2D38219EE899",
+    "termID" : "4FDEF4F1-D530-45D0-BAC7-2D7B6A6C2A7F",
+    "value" : "Skiftläge",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F15AD64D-4DA9-4AE7-AE0A-E7A524F4351B",
+    "termID" : "50499E6B-209E-47B2-B253-CB82099317AD",
+    "value" : "Lägg alla överst",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "30082E13-A437-4E26-89F7-83CF936BE95B",
+    "termID" : "51980FB4-F9F3-4518-817F-FCC68C17354E",
+    "value" : "Visa alla",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "68377D85-8496-4E49-A05A-BE034FE31684",
+    "termID" : "52BEADA1-3AB4-4005-A2DB-76DF706B84CE",
+    "value" : "Göm övriga",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D7385432-A064-4E20-804D-F5326AB392F5",
+    "termID" : "534C8E90-40BA-46A2-8378-20533F0E58BF",
+    "value" : "Dölj Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5E3165C3-08FD-4548-A476-89DF0DB8647D",
+    "termID" : "5561EA5F-3F2D-4302-A0FE-CA8B6B2839B6",
+    "value" : "Utskriftsformat…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "DAFA2A74-0047-451C-B90F-3D292DA94D55",
+    "termID" : "55ADD3A3-3B7D-4C71-B374-825999831DCD",
+    "value" : "Hjälp",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "EE97042D-00E8-4915-B16D-4581797E34EE",
+    "termID" : "55B9EF94-FAFA-4FAE-B34A-D78B042A7D72",
+    "value" : "Nyckel",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1C87FAC3-1C90-403B-BB65-E27F50170658",
+    "termID" : "55CFD04C-2422-4CF9-9815-DBFC6A02278F",
+    "value" : "Stora bokstäver",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B7C0F28B-6F1C-4497-9D2D-EBA53D184BC2",
+    "termID" : "55E10678-7FFD-4887-AD18-8E97D5726920",
+    "value" : "Återställa köp",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0E0D9B1C-8FC7-43BA-933B-87A8D6607A8F",
+    "termID" : "569803EF-DE2B-4F2B-BA38-A88197A8F3F5",
+    "value" : "Sök",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "AEB4C2D4-A6BC-4DE5-9D14-BAF05C20B759",
+    "termID" : "574C5679-1FDE-429F-A5FA-0D2FD7BCD48D",
+    "value" : "Öppen…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "2F7FEA47-BB12-40A7-B75F-6AAD06E55609",
+    "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
+    "value" : "Varning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "420983BA-C843-461F-A689-17A8DEBFE982",
+    "termID" : "5DBF5DE4-A80A-4412-9D73-CC542A7E5E40",
+    "value" : "radering",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "37A16910-2EE3-4BC9-8A72-2F704FCE7342",
+    "termID" : "60CE0BF4-1C00-4103-9A00-43DF86E4E2F3",
+    "value" : "Tjänster",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "FEA64C24-37F5-4640-86D4-3F009E4A71A1",
+    "termID" : "6115E066-DBC0-43C2-A0B3-30C8734A39F7",
+    "value" : "Ny period",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "97D6F1AC-10C4-4FEE-AC24-04BC668CDDAC",
+    "termID" : "63DCA2BB-FDBB-4206-8EF4-7AA7690B875B",
+    "value" : "Ångra",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D68F2D3A-3EA8-41E6-B233-965AEE7B0C45",
+    "termID" : "6636E348-D362-4471-8DAA-927EB17579D4",
+    "value" : "Språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "ACE3FBC3-3B47-4F68-8E81-64E2372CBBD7",
+    "termID" : "6653609D-D92A-47BA-B799-242FE28619FC",
+    "value" : "Stäng",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "212DFF40-4A3D-4627-8F8E-97E4C7BA1749",
+    "termID" : "682C2BE2-1A31-47DF-83BC-09A5E74322FF",
+    "value" : "Referensspråk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E60F6D31-1B92-4D93-A21D-53E5627063C7",
+    "termID" : "68B60AF3-B4C3-4961-B2C6-C2D443D4F375",
+    "value" : "Översätt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3B9A7319-F74F-42B3-8CB3-9739680BDF0E",
+    "termID" : "6A86EE13-3E35-414B-A5E1-5698FC5CA26E",
+    "value" : "Lås upp Pro",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E14F92F1-007F-4EAC-ABB0-2CDE04E8C76E",
+    "termID" : "6BA6CA2F-CD69-478D-B2D9-86F6EB129BDF",
+    "value" : "Fönster",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E6E72519-F0CB-4C3C-BF5A-BC01C63DF76C",
+    "termID" : "6DFA7839-FA85-4FEE-95D9-7EB973182498",
+    "value" : "Ta bort taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "85B8913D-581A-467B-8AC5-CAAED68210A7",
+    "termID" : "6ED71BB2-EE71-4D62-A96D-F149F6A6B7D7",
+    "value" : "Lingu är tänkt att vara ett alternativ till större översättningsplattformar som Phrase eller POEditor, vilket är uteslutet för små utvecklingsföretag eller enskilda utvecklare på grund av de månatliga priserna.\n\nDu har redan låst upp Lingu Pro. Du kan nu använda alla funktioner utan begränsningar och utan begränsningar.\n\nTack!",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "7DA04970-AF43-42E9-9205-C67819226768",
+    "termID" : "6EFE7DD4-9726-4ADB-97D8-5F21865C7D12",
+    "value" : "Anpassa verktygsfältet…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E325CDD7-0A8F-422B-893E-87ACE6207B84",
+    "termID" : "6F01B5C5-5093-4632-80DA-6023F6245500",
+    "value" : "Ersättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1E2A7B2B-8151-4CE1-986F-43544474347F",
+    "termID" : "70B51B13-9342-40E0-AA8D-C193C753A433",
+    "value" : "Zooma",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3272F477-AA79-490C-8377-832360CC267E",
+    "termID" : "7240F5C3-DF49-4131-A291-644CABD0317B",
+    "value" : "Klistra in och matcha stilen",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E1C5F36F-D9BF-440B-ADAD-087D3A2BDCE2",
+    "termID" : "72DD64B0-F284-413A-B489-B5FF18E1979E",
+    "value" : "Ersättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0AECF60A-2096-4356-B8A8-80750E3F6587",
+    "termID" : "76C71608-B43D-4B03-A0C6-6E9A1560FBB9",
+    "value" : "Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E0FEA2EC-CB4F-46D9-AF70-FFCD6D543A35",
+    "termID" : "7782E1D9-5B49-47E0-8A7E-C9BCBFCDA0DD",
+    "value" : "Innehåll",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D3F23D21-24BF-429E-9BC7-65D03D0F777C",
+    "termID" : "7F6F13CD-7957-4627-A850-27D89DDE5564",
+    "value" : "Visa sidofältet",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "84C54926-463B-4E71-9D4F-230AD66DE593",
+    "termID" : "7FFE16CA-8245-4B94-A79E-20618C5CEB6F",
+    "value" : "Hjälp",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "4BF08795-8605-4D6A-A96B-BD806DC1B5DE",
+    "termID" : "82296152-EF50-4998-A584-6C12F82464F7",
+    "value" : "Skiftläge",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "7EB2B49C-7B10-490E-9961-F46D471D9B35",
+    "termID" : "82B71B57-5E2A-48FF-80B6-AD42A7A3E98C",
+    "value" : "Språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "79707E65-577F-4FEA-85B8-36327D3F3685",
+    "termID" : "82FE94DF-E3B0-4D51-9517-B64946E9245E",
+    "value" : "Du har varningar för några av de filer du vill exportera. Ignorera och fortsätta exportera?",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F7328FC1-7657-4331-A026-6A460B78181F",
+    "termID" : "834C6158-8C0D-4AE7-BDBC-2B4EB0569FA0",
+    "value" : "Importera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "2644E0D2-E745-4DDA-9157-506C7404639B",
+    "termID" : "84F570F2-F317-4C83-82EA-80147A3C2D3E",
+    "value" : "Redigera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1685E989-F887-4288-B750-620551B1DCA2",
+    "termID" : "856E0390-5DD5-40C5-9C0D-BFEA9904ED73",
+    "value" : "Exportera Lingu till dina lokaliseringsfiler",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A86178BE-434A-4FBE-AD3A-7397DBCE0229",
+    "termID" : "866F4C7B-4CC6-4F28-AF4E-AA726AAAB470",
+    "value" : "Uppdatera översättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C5F07072-4A91-49A8-A8FF-0CAF59EF5287",
+    "termID" : "87028B24-8B18-4211-A352-B803DD0BBC70",
+    "value" : "Välj för export",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "ABBFCF18-7DF2-408D-A9B1-50638DEAFC66",
+    "termID" : "87D1600A-BDD6-4B75-AD42-594544760BDD",
+    "value" : "Lingu Translate",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E681301A-6545-4C5B-AB36-77BEB9E7869C",
+    "termID" : "89BC44FB-A73D-4DCA-B72E-42432DE433E0",
+    "value" : "Här kan du exportera dina texter från Lingu till dina översättningsfiler.\nAlternativt kan du också exportera texterna med Lingu CLI.\nDu kan få mer information om detta från hjälpmenyn.",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0A618B2F-1F3B-4ED1-AB00-F073E0FE3FC0",
+    "termID" : "8AB14877-440A-4805-B4C8-F54EC075C299",
+    "value" : "Sluta tala",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "34616E8D-54A1-487E-9677-AEF53FAC2BBB",
+    "termID" : "8C10CCB4-FA75-42A6-B360-A1CE2EA21152",
+    "value" : "Smarta citationstecken",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C67CEBD7-D859-4662-93FE-5FD20F95C008",
+    "termID" : "8CA3C123-3407-4731-9F66-9821F6E1617C",
+    "value" : "Minimera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6007440B-B5E1-4881-B9A3-8C4B6EEB6BF9",
+    "termID" : "8D871FA3-FE86-4750-BFC1-0B245A043E7B",
+    "value" : "Fortsätta",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5A859954-7EEF-4673-ADBF-C112D7493812",
+    "termID" : "8FE3AFC4-9824-42D0-B5FF-37C1446CB56F",
+    "value" : "Små bokstäver",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "7F6C76DB-9E22-4251-8E78-4FA92D288B73",
+    "termID" : "908ED22C-8C69-4EA1-9C7B-6FC4C13F1BF2",
+    "value" : "Ta bort översättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5BF6923A-F2E2-4526-9575-D5D5C9B02926",
+    "termID" : "929A597D-1919-4AB4-831C-E6F3EE95FEF4",
+    "value" : "Exportera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6EDD89CA-159C-4946-A5E1-09B672997C1D",
+    "termID" : "9374C909-5AE4-4B3C-8033-198187D8BDC4",
+    "value" : "Ta bort villkor",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "9FAB2296-F6CE-4801-9747-42435E4A4E8C",
+    "termID" : "93FE6B65-1F25-4478-923E-96CDA126CCF1",
+    "value" : "Uppdatera taggnamn",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A89995C9-B830-490B-A317-770CA2891229",
+    "termID" : "94295E9D-9F9E-4DE8-B24B-1921C20A0A6A",
+    "value" : "Fortsätta",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A2C5EF54-D46C-440F-9BDD-F6748B539B7D",
+    "termID" : "956E3A1D-F555-4133-A1BD-46F0CAA3F439",
+    "value" : "Smarta länkar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C9D6E733-5AB6-4889-A96F-A33914D650B7",
+    "termID" : "9724BB6D-42FA-4AA4-89E5-CBB81E8A44C2",
+    "value" : "Lingu Pro",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "AE4E989E-FA3F-482A-B80C-B856934C5302",
+    "termID" : "98A575F5-8E1C-4580-9FBE-1922D5EA958A",
+    "value" : "Smarta streck",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "8AADA891-8366-4CCA-A461-D8E4678F7F69",
+    "termID" : "98CB040F-E94A-464F-89AA-2B95361C82E4",
+    "value" : "Öppna Senaste",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0693CBDC-484E-4FCB-9D65-CC5ADCCE9EEC",
+    "termID" : "98F0D89E-F462-40AE-952A-2F4A9A2DF380",
+    "value" : "Tal",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "8648397B-D305-40AB-8180-3DCC27EB6998",
+    "termID" : "9B0F4EA2-7FF4-4052-9C12-2C7D3B3BEBF2",
+    "value" : "Avbryt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "9FBA6844-DB86-48A6-8A15-9F4358DC3E66",
+    "termID" : "9BC08706-76BA-4B61-913E-C5EF0C3CC795",
+    "value" : "Rensa menyn",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C8C98A01-25DE-46B4-9CA0-88D57D61A1D7",
+    "termID" : "9C138F91-866A-44A3-8E57-76BE68BE458C",
+    "value" : "Ändra val av tagg",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5ED99B79-C0C0-4334-8D6D-7940C2957C0B",
+    "termID" : "9C965464-5365-47EC-91F5-CE0B214C0CFC",
+    "value" : "Gå till markering",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F409D154-F7B0-457D-B1F7-6DF710901ADE",
+    "termID" : "9F6F52EA-9250-4F9E-8B1F-AC52E89B2AD6",
+    "value" : "Importera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "BEFAEF69-9DC1-4124-93E0-2240F8177202",
+    "termID" : "9FC78CFA-9E25-4E88-9CC6-D57C17919498",
+    "value" : "Här kan du importera dina översättningsfiler till Lingu.\nAlternativt kan du också importera dina översättningsfiler med Lingu CLI.\nDu kan få mer information om detta via hjälpmenyn.",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1C2F5485-BC90-4540-94B8-E60F490A2A43",
+    "termID" : "A00DD96A-A2A2-4ED7-BF97-16B1D84282AB",
+    "value" : "Utför import",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0EF6F3DC-B627-4C60-9B7F-BDF606852BA7",
+    "termID" : "A1F1555F-7DB8-4BB0-BB87-11FC9F23C025",
+    "value" : "Kopiera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5C28D05C-D340-4C23-9B1B-2288B15345C1",
+    "termID" : "A5863AD4-7CCB-44D0-81CE-F42E9A228180",
+    "value" : "Tjänster",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3EF3FC02-25E7-4A0C-B274-E2BF83D59B75",
+    "termID" : "A755ACCF-131D-45BE-B057-1BFAE1B82F03",
+    "value" : "Lägg till språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "44FC8FD3-A72F-41C7-A97B-3423B2B7FE95",
+    "termID" : "A7B86E9E-674C-4D81-8FF5-561F191517F5",
+    "value" : "Dataavkännare",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C2EBB02D-B79A-44D2-82A9-E0CDBF18ECB6",
+    "termID" : "A8F90F7A-06E6-4467-BEAE-06F52804BD31",
+    "value" : "Formatera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A936729B-BC5A-4579-A2C5-761C6A5F77BD",
+    "termID" : "AA74F39A-8BE1-45EB-A255-4C54FF359ABC",
+    "value" : "Varning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "51BBFA1C-6108-4C5F-B913-BA9C5796CEFA",
+    "termID" : "AB5D8000-9D5C-4464-A18A-42E167EE8CA4",
+    "value" : "Referens %s",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3DF948A9-64F7-4EC7-A9D7-EB84F09AB8AC",
+    "termID" : "ABADB0A8-C1D3-4999-99E1-0686D92C02F5",
+    "value" : "%s Taggar har valts",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "DF3D1122-B2EA-4781-8105-E9A375D32BCE",
+    "termID" : "ABDBAEFA-FDE1-4781-B04C-942DF7A2C785",
+    "value" : "Ny",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D6A30F64-E8B5-41A1-A91A-714920774CD6",
+    "termID" : "AC3E3D73-780E-473C-8559-1A3E4D28DE3B",
+    "value" : "Fel inträffade under översättningen. En del av texterna kunde inte översättas.",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D39EE62D-322E-4417-B92A-C76F8394BAEC",
+    "termID" : "ACEB54E8-5845-49C1-890A-75F5CD68DD6C",
+    "value" : "Kontrollera dokument nu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "73B73536-902D-4439-A4FB-4EBBF496244F",
+    "termID" : "B0CCEB64-81D0-4CB8-BC3D-676DF147E540",
+    "value" : "Fönster",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "ABCE40A9-64E5-4FFB-B2D5-75BF2E3BA7A7",
+    "termID" : "B2F31B84-8CC0-4F02-9CF6-545450006DE0",
+    "value" : "Innehåll",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "136DD9DB-24A7-4765-AE3E-9E6657A34315",
+    "termID" : "B3F9A6A9-7F68-4BCB-8061-7423F333D0F4",
+    "value" : "Språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "DF31C71E-A3E8-4980-9977-2C4A762A07F6",
+    "termID" : "B41CA821-D4B9-4C19-81CE-E0ABF79B1942",
+    "value" : "Tilldela taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "48F7D147-812E-4223-90E9-FB7DADDAD742",
+    "termID" : "B475BF00-0BC1-4D89-AFFE-B0353DFF141E",
+    "value" : "Redigera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "648E83CB-8F53-4780-847B-7A9C9B1BA8E9",
+    "termID" : "B4B9F341-C9E4-43B4-912C-0657F6AC4579",
+    "value" : "eller genom att importera dina lokaliseringsfiler",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "3FAB131B-6E42-4D5B-8949-8BE21E291EA9",
+    "termID" : "B4C98E44-ED8B-408A-8027-903AAE90702B",
+    "value" : "Sök…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "8E88ADBD-AEB4-4B6A-80C6-521983B25583",
+    "termID" : "B6D7345D-B651-4E96-9D31-5F3B59DAC3B9",
+    "value" : "Välj dina lokaliseringsfiler",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "DB492D01-B986-4FCC-86B5-3C7162E827C0",
+    "termID" : "B826223C-1646-4457-9120-4F6FC3A76C7A",
+    "value" : "Utför export",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B2FCE0F4-0177-4BD5-90AD-AD3CC8EA4922",
+    "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
+    "value" : "Byt källa och referensöversättning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "AA193995-BC48-406D-85BC-C10C9D118532",
+    "termID" : "BD27C5DC-98E8-4971-AD52-BEF386A66D38",
+    "value" : "Nyckel",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "604497E1-A021-4474-A2CD-E89014862969",
+    "termID" : "BD59615F-3105-4380-9B0F-31D64E8D9F85",
+    "value" : "Avbryt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "8B636173-A3E4-41BC-9A2C-8B4494A86425",
+    "termID" : "BD913A4F-0AB2-45F4-84E6-EA568C36A17D",
+    "value" : "Du kan använda Lingu upp till 200 villkor gratis utan några begränsningar. Utöver det måste du låsa upp \"Pro\".",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "62E6B697-F891-4601-AFA3-4CAE5A1FAB4E",
+    "termID" : "BF22A898-99D3-4A5A-AFC9-1820143AE370",
+    "value" : "Kontrollera grammatik tillsammans med stavning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A1CF7029-06EA-428C-8FFA-131C95C1171D",
+    "termID" : "C1AD5509-2C04-45FA-A93D-519330382706",
+    "value" : "Apple Glossary",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "79087039-8DD0-4C2B-9CA4-4F4B2131896D",
+    "termID" : "C215DCC9-D907-4E42-BBBC-15D0F8B827A9",
+    "value" : "Sök nästa",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "A0B13FA0-4998-4EAF-9659-8711D1A4347A",
+    "termID" : "C40BE8E8-DE09-4EAF-822A-A9673FAA2735",
+    "value" : "Pro är upplåst",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "EF9B460A-3CE2-48D5-AE99-8E92CDB500B6",
+    "termID" : "C4F7FEDC-28D3-4C58-B2D3-D9EB00477430",
+    "value" : "Helskärmsläge",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "53999B79-BB5A-4636-8E0C-55B5298631CB",
+    "termID" : "C55CE320-7603-4F4F-8666-3EEE53CFFEF9",
+    "value" : "Flera olika",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "441B4D46-283A-43A3-88A5-205EF16C71CA",
+    "termID" : "C611FEBB-B454-4BA8-944D-42C7DD6B3D29",
+    "value" : "Språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E4F35825-9D9C-4685-974A-8CD868C0C4BE",
+    "termID" : "C6AB9185-9D35-40F7-A0E9-336D2A140AA5",
+    "value" : "Byt källa och referensöversättning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "9F50A740-1626-44C9-8BED-BF019CF7B4EB",
+    "termID" : "C73845A7-078E-4A26-A386-2D9F6EF3DAB1",
+    "value" : "Börja med att lägga till ett nytt språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "466E0A12-5E26-42EF-BA45-5DA8C94678FD",
+    "termID" : "C7EDD639-6837-4F64-83B1-102FF59D243D",
+    "value" : "Sök föregående",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "79D80EA1-38FF-45EC-837F-CA06949F9BED",
+    "termID" : "C99440D6-DE65-4D4D-B045-CC180B5B26D4",
+    "value" : "Sök",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "2491AC99-42D7-48C7-8772-C5C320D3682C",
+    "termID" : "C9F0C27F-1B6A-4FC2-ADE6-8595F327BCE8",
+    "value" : "Smarta översättningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D97AF278-A576-4F79-BED6-2F4073B44853",
+    "termID" : "CB5E0A53-259C-434A-967A-37E7D3D9EBB5",
+    "value" : "Taggar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5CA08D84-2B94-420D-9427-B9AA1C7620F5",
+    "termID" : "CE355B58-F732-4855-825F-176270B28257",
+    "value" : "Avbryt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "03284775-A29A-4237-9316-094535ED9941",
+    "termID" : "D17D5E8C-72E0-4657-B735-EF8FB44D8E62",
+    "value" : "Använd markering för sökning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B8B29656-07F0-42B2-B401-7CE82AC13130",
+    "termID" : "D499FCF5-CD62-41A5-8FF8-7710C150894C",
+    "value" : "Flytta villkor",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "9458235F-ACD6-4C0D-A765-B4A9F767B854",
+    "termID" : "D6AC25E9-745F-4914-A3D9-CCA83A23B82A",
+    "value" : "Uppdateringsnyckel",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "BCA65924-6FEC-4167-B60E-33729F847DBD",
+    "termID" : "DA2E63FE-41B7-4296-80B3-B6653644AFE8",
+    "value" : "Lingu Hjälp",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B33F8CDD-B005-4613-8885-B7E677AE76D3",
+    "termID" : "DCA9B7C8-D213-42BA-ADED-234AA2AB2323",
+    "value" : "Varning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "12787AEA-4693-40A7-859F-54C2CC55FCDD",
+    "termID" : "DDF1F43A-4A27-4C87-927E-FCD77CC434D7",
+    "value" : "Spara…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "60912EB3-AB76-456C-ABB9-1E1F0DE6C4E8",
+    "termID" : "DE78975D-2ED9-46F9-BEC0-7B4B2374A321",
+    "value" : "Användande",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "27507249-1660-4B56-A519-3455DB5CEDB2",
+    "termID" : "E0C75AAA-1FB0-4500-9EA4-F6D1C48D58C3",
+    "value" : "Ändra referensspråk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "40ACA649-504A-417A-91B4-5C57A4412C26",
+    "termID" : "E1F19332-3419-4143-B5B4-0DE030FEA152",
+    "value" : "Lås upp Lingu Pro",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "C5F44AFC-D4FA-4C63-AEA1-B491560AED2C",
+    "termID" : "E275DF64-8466-457D-A718-5C725DFB4AC1",
+    "value" : "Nyckel",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B175B578-FA54-4B52-AC91-985B81BC7C97",
+    "termID" : "E2ECBEA6-B165-43CA-A7DC-5FF9A8526665",
+    "value" : "Om Lingu",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "0AD01E3B-8BA8-4421-B169-69811F037080",
+    "termID" : "E4031C90-205B-4578-9850-B9D0E1DE2DC5",
+    "value" : "Börja med stor bokstav",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6EBB5FBD-97EB-4401-82E0-0D2B071298E8",
+    "termID" : "E4C74771-78B9-4485-8830-20BDDD5A1AFC",
+    "value" : "Skriv ut…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "86C4F006-669E-41C5-A382-D40FBDCEE453",
+    "termID" : "E4F49FCF-7903-422C-859E-61A079D08E1A",
+    "value" : "Spara som…",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "D835522D-05F0-4804-9E49-96D2D52F72BD",
+    "termID" : "E800C7D3-E7BC-4CAD-9890-FB14C479E603",
+    "value" : "Lingu är tänkt att vara ett alternativ till större översättningsplattformar som Phrase eller POEditor, vilket är uteslutet för små utvecklingsföretag eller enskilda utvecklare på grund av de månatliga priserna.\n\nDu kan använda Lingu, upp till ett antal 200 termer, gratis och utan begränsningar och ta reda på om Lingu är tillräckligt för dina behov.\n\nSå snart du har upptäckt att Lingu uppfyller dina behov, eller om du vill hantera mer än 200 villkor, måste du aktivera \"Pro\" med ett engångsinköp i appen.",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "EE42FFE9-CE06-4E38-9721-D614396CA329",
+    "termID" : "E81AEC68-A19F-435D-83DE-A70C0713E822",
+    "value" : "Smart kopiering\/inklistring",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F2BFC3C2-67A4-420A-89EA-7F2586CD43D2",
+    "termID" : "EA65F4F7-B159-4EA3-B972-B9363BE6BD07",
+    "value" : "Organisation",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "333CB603-FBF3-473D-BEA4-4D382A00F7CB",
+    "termID" : "EB396B45-5C0B-458A-A64B-0A34DBAAFE3A",
+    "value" : "Dölj oförändrat",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "1C2FD8DE-8412-48EF-807F-9A7BA8C62D14",
+    "termID" : "EB3D5287-61CA-4231-AFB9-F3EEF40AE9AF",
+    "value" : "Gör om",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "5A4A8B12-F77A-4CAE-A815-800A4ACDA947",
+    "termID" : "ECEA41E9-2752-4C18-BBDA-22EFE3724101",
+    "value" : "Källa %s",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "6F0CE3C8-AAC4-4AB8-8306-6F60A636FC4E",
+    "termID" : "EED65977-EC44-4ECE-9BBC-C5FB3CF901F4",
+    "value" : "Markera allt",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "B2ECE91F-E92B-43EF-8145-03D47241C8B3",
+    "termID" : "EFB1BEDB-63CA-494F-ACC0-F271113302A7",
+    "value" : "Uppdatera översättning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "07CDB76F-56F7-4D66-9BF2-ABED904999C7",
+    "termID" : "F19DE279-E763-4139-9388-A414ACFE9B64",
+    "value" : "Namn",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "47A20EB3-BCA0-4243-9E79-89B7E1CAC3DC",
+    "termID" : "FA38E40A-B475-47C5-94F3-063788ED0099",
+    "value" : "Klipp ut",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "EC5AFCF6-4444-4C22-B3C8-4496B3B6AC1A",
+    "termID" : "FAED305C-757E-4438-BBE4-BAD50D9E7AB8",
+    "value" : "Språk",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "E8208592-6CE2-489E-9E3B-0533A9FF2137",
+    "termID" : "FB335DC3-B6D1-4FAA-AFC4-8B4E2B282DD3",
+    "value" : "Nytt i den här versionen:\n• Du kan nu filtrera efter taggar för att få en bättre överblick\n• Förutom att exportera via CLI kan du nu också exportera dina data direkt i Lingu-appen\n• Ytterligare inställningsalternativ för import \/ export i din .lingu.yml (format_options)\n• Varje Lingu-dokument har nu ett unikt ID (Your-File.lingu\/meta.json)\n• Nya språk: nederländska, franska, hindi, polska, portugisiska, spanska, svenska\n\nBug fixar:\n• Felkorrigeringar när du lägger till \/ tar bort termer medan du är i textinmatning\n• Felkorrigeringar angående placeringen av nyinsatta termer medan vyn är filtrerad\n\nHar du några frågor, förslag på nya funktioner, saknade format eller vill du hjälpa till att översätta appen? Skriv ett mejl till:\nchristoph@pageler-software.de",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "F49B9C45-7BA0-46BC-BFA7-C1750A3E3667",
+    "termID" : "FCE43E27-FD06-4A8B-80D4-908FD4503553",
+    "value" : "Formatera",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "762AF993-FB7F-4999-BC56-C1022E2FB08F",
+    "termID" : "FD6383DA-9D51-4640-A6D3-97F929F3ED0D",
+    "value" : "Arkiv",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "FF06EA47-E3CD-4419-85E2-986163F9E17B",
+    "termID" : "FDA6CA26-C567-4BF6-9322-6C1E923304D9",
+    "value" : "Klistra in",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "906A2A97-9EB7-4C04-BB1D-D53F315C306F",
+    "termID" : "FE319498-B978-4F2E-A6FA-70F31A548357",
+    "value" : "Lägg till filer med + -knappen\\neller släpp filer här",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "10968A74-75E7-4787-9624-E697AE2FCC2B",
+    "termID" : "FE4DFF92-6C80-4814-8352-B8484FC17137",
+    "value" : "Google Translate",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  }
+]

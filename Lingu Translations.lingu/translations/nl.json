@@ -1,0 +1,1076 @@
+[
+  {
+    "id" : "56450B6E-24BE-4E9A-9622-1C8B7356FB49",
+    "termID" : "01B8F995-6368-4424-8B04-77D37A8D71E6",
+    "value" : "Lingu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4CAF54FD-D0C3-430C-ADBA-CFCCE44B708F",
+    "termID" : "025C673D-68DB-4EAC-89B5-185B67257014",
+    "value" : "Toon knoppenbalk",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A52B97BA-38D3-445A-827C-4C8486C8598D",
+    "termID" : "04DD7C85-75F0-4464-BC83-FC4416C4264D",
+    "value" : "Wijs tags toe",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3B188602-DDD6-455A-88F9-04B3508B4DF8",
+    "termID" : "066C3E21-8DBC-44CE-B268-AF5C43BE3311",
+    "value" : "Kies uw exportlocatie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "1FFCD081-6429-4266-83FC-8B7F8A606860",
+    "termID" : "06E5A5E0-D9FF-4354-AD44-FD3D5F83FD41",
+    "value" : "Selecteer Tags",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B7EFFDCB-30B1-458A-9F7A-EF17A2C0C9C0",
+    "termID" : "088831AD-05D9-41F1-B2E9-545224E91034",
+    "value" : "Verwijder vertalingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "EC5E1094-BDC5-4C4F-9596-D9409FB28D09",
+    "termID" : "08D99BF1-0FA7-418C-B178-A046EA5CC90B",
+    "value" : "Importeren…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5B18D3CC-544E-4812-9A1B-03830671944E",
+    "termID" : "0AFFE9E2-B208-4B79-AF9F-EB8C51693578",
+    "value" : "Recentelijk geopend",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "CA62743C-E24A-4683-8BF3-496ECFEE91D6",
+    "termID" : "0D2510DC-6330-434C-B3A5-8A1A3F3C3893",
+    "value" : "Doorgaan met",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B9C02D32-C7B0-4824-9935-C06BDD2ACE64",
+    "termID" : "0E02C0D0-BE0A-4C07-A9D4-67ACA0BEF87E",
+    "value" : "Zoek",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "14AD07B6-E79B-41FE-AF73-019079653A86",
+    "termID" : "0E523BE3-E124-4E26-B8AD-E038FFDACDE3",
+    "value" : "Venster",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9B3E9259-DC91-48C2-8C40-D118199C6E3F",
+    "termID" : "0FAF6C4F-FD9F-427D-89A3-2FBF8F27795E",
+    "value" : "Voorkeuren…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0154A221-CA34-4F84-8B16-94478AA158F0",
+    "termID" : "136821E2-08A8-43A2-9AF5-4D17C911BA8C",
+    "value" : "Start spraakfunctie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "088BC0D6-3728-400A-A555-BC4250E6ADFC",
+    "termID" : "1630AA01-6E6E-4558-9ED0-6DDA34F24F23",
+    "value" : "Zoek en vervang…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "6D713553-6B87-4659-9E04-01EBBE9C7E15",
+    "termID" : "17729AA3-0D0D-4B2C-B4F0-FB9B26CAB320",
+    "value" : "Actie importeren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4E445808-2F72-46D4-89C0-42750A549456",
+    "termID" : "1BD5E5D5-C3B5-40D2-8159-AC70ED1B88B6",
+    "value" : "Wijs tags toe",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5252F90F-FBCA-43DC-B539-9EC037F34CCE",
+    "termID" : "1C325699-5240-4963-9998-D62A1F0B5CC8",
+    "value" : "Ontgrendel pro voor %s",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "01AC6A2E-FEE2-4D64-820E-E011CD1C0F2F",
+    "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
+    "value" : "Nieuwe tag",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3815B345-32FD-4F1A-B417-7DD189BA7962",
+    "termID" : "20951BFE-5488-4D4D-A811-A1F8896BCC8A",
+    "value" : "Verwijderen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3A83163A-6F83-49A3-9252-86EF446973B4",
+    "termID" : "2267B481-B96B-4025-821F-1772E4C1D54E",
+    "value" : "Toon vervangingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "844D2C25-4460-4DB6-85F4-ACFF11D98568",
+    "termID" : "22A8A4BA-0F16-4991-A402-8917FF124CD0",
+    "value" : "Corrigeer spelling automatisch",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "C4C9F3E8-3886-4935-9BBD-85A3125147F7",
+    "termID" : "23620136-3E58-414D-9214-02C30E466B63",
+    "value" : "Spelling en grammatica",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "335DF62F-4A7F-4862-BF59-60FBE5CF5444",
+    "termID" : "23682E07-57AD-4DFA-96C1-57952F7ACF79",
+    "value" : "Importeer lokalisatiebestanden naar Lingu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "6C66366C-1EE8-476E-A515-98A7DB3ADE32",
+    "termID" : "24EA51F1-CD8B-4FBF-AA04-C39C7EE14ACC",
+    "value" : "Sluit Lingu af",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "504AEDA2-13C7-474F-90F7-D3A36AAFB10B",
+    "termID" : "277DFC79-45ED-4D4D-BDE6-F716E6ED93DA",
+    "value" : "Tags",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "28287A40-2EE1-4504-98A2-5A8AEFEFEFD4",
+    "termID" : "2BD4EEE4-16CE-41B1-A59E-55DAA3A02DA7",
+    "value" : "Doorgaan met",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4FFF639C-1614-4691-A7C2-6CD6DE26CB33",
+    "termID" : "2DD94E55-8590-4A20-8D6A-6B09EF982CF1",
+    "value" : "annuleren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "44C5DD56-6A2F-45A3-B4F9-3C180827AC6B",
+    "termID" : "2E808426-77B6-4401-B0F8-97D980320EAC",
+    "value" : "annuleren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7C3A99DC-F4BC-47F5-BE34-88D5CC6BA903",
+    "termID" : "2E81809A-07E0-4515-9174-3398127F9E7A",
+    "value" : "Tekstvervanging",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "6559F1A5-70CF-456F-882D-39CFE6B67656",
+    "termID" : "2FDB58F1-E1EC-42A0-BDC5-6366C337CF6C",
+    "value" : "%s tags toegewezen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "FBEB780A-E052-494A-AD6C-C2A3C5232D34",
+    "termID" : "308D28A7-06A8-49DF-90EB-15D9AD4D17CC",
+    "value" : "Detail",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D3D5E914-1F5D-418A-B294-76204BE5B7B0",
+    "termID" : "397AD980-D74B-4364-9003-A8F85FBB3FB3",
+    "value" : "Taal verwijderen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "85A1CD95-5B9A-4B11-B16B-F93886F944EF",
+    "termID" : "3B537FE1-FF88-4965-A921-B1CAB56ACE4B",
+    "value" : "Pro",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "26BF54CF-44DA-424C-8854-13C6ACAC84E4",
+    "termID" : "3B6E249C-DD17-4A87-A876-F074C913E220",
+    "value" : "Toon spelling en grammatica",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "53228581-67C3-4D77-ADB7-87B7C5FB4E37",
+    "termID" : "3CE9068B-56CE-4072-AA0F-8680C6338351",
+    "value" : "Zoek",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "FB263129-22B8-4961-80FE-5C3F481D1C2D",
+    "termID" : "3CED0B43-E704-430A-B53B-5FE494F951EE",
+    "value" : "U heeft waarschuwingen voor enkele van de bestanden die u wilt importeren. Negeren en doorgaan met importeren?",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "CEC3691A-FB42-4955-9DD5-DF39329784A7",
+    "termID" : "3DB37ACB-2266-4C98-8D84-6021BB1FE9BD",
+    "value" : "Pro vereist",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "479467A8-ED21-4393-AC41-2C143B26C5FE",
+    "termID" : "3DF8BB55-1C7D-48EF-A312-5C0DACA03E71",
+    "value" : "Spraak",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "BCB6A6B4-3EE4-4D96-BA07-92FC3890608C",
+    "termID" : "40AE0698-5EC5-40B2-AAE3-28E4DA264E1F",
+    "value" : "Archief",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B6B44A36-28D9-4846-9218-581360B17A62",
+    "termID" : "4121857E-6BF3-4E42-B8D0-B2D6B61DE0B5",
+    "value" : "Toon alleen geselecteerde tags",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "398B2174-E829-436C-B9CB-EE618B83B946",
+    "termID" : "41765766-62F8-43A5-BD40-0045592FD38B",
+    "value" : "Spelling",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "2C052CB8-00C5-487A-9841-20ADAE0E8F9F",
+    "termID" : "424D1101-2696-477E-A186-2B50B7C7CE68",
+    "value" : "Lingu is een app die het voor u heel gemakkelijk maakt om uw vertalingen te bewerken en daarmee een prima alternatief biedt voor grotere vertaalportalen zoals Phrase of POEditor, waar u maandelijks geld voor moet betalen.\n\nLingu komt van ontwikkelaars voor ontwikkelaars (en ook voor je andere teamleden die je helpen met vertalen), dus er zijn enkele speciale functies die je zouden kunnen overtuigen om de \"Pro\" -versie te ontgrendelen. Zonder \"Pro\" te hebben ontgrendeld, kunt u Lingu met maximaal 200 termen zonder verdere beperkingen testen en bepalen of Lingu aan uw verwachtingen voldoet.\n\nAls u overtuigd bent van Lingu, of als u meer dan 200 termen moet bewerken, kunt u \"Pro\" activeren met een eenmalige in-app-aankoop.\n\nOverzicht van de functies die Lingu u biedt (met en zonder \"Pro\"):\n\nGeoptimaliseerd voor VCS zoals Git\n• Lingu werkt met .lingu-bestanden die u eenvoudig kunt inchecken in uw repository\n• De .lingu-bestanden zijn gebaseerd op platte tekst en zijn daarom gemakkelijk te begrijpen\n\nAutomatische vertalingen\n• Vertaal uw teksten automatisch met Google Translate of de Apple-woordenlijst\n\nLingu CLI\n• Automatiseer uw vertaalproces met de ingebouwde CLI\n• Dit maakt het importeren en exporteren van de vertalingen naar uw projectbestanden erg gemakkelijk\n\nFormaten die worden ondersteund voor importeren \/ exporteren:\n• Apple Strings (.strings)\n• Android XML (.xml)\n• Eenvoudige JSON (.json)\n\nUw formaat ontbreekt? Is er een functie die u dringend nodig heeft, maar biedt Lingu deze niet?\nSchrijf me een bericht naar christoph@pageler-software.de",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D9279B2C-5EE5-44CD-86EA-4FD0E2871633",
+    "termID" : "445CFB96-7E8B-44A9-BEB8-55EF0486DD01",
+    "value" : "Controleer spelling tijdens typen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "97A131BC-01DE-426B-BBED-180DDDC6DAC8",
+    "termID" : "4C1AA470-65F1-4AAA-BDC9-F16D995AF9B8",
+    "value" : "Verwijder vertalingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0329893A-B517-436D-AF4E-51F307B25780",
+    "termID" : "4FDEF4F1-D530-45D0-BAC7-2D7B6A6C2A7F",
+    "value" : "Omzetting",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "2FE7A07A-7F0A-46A3-9C75-D2FEF7F08410",
+    "termID" : "50499E6B-209E-47B2-B253-CB82099317AD",
+    "value" : "Alles op voorgrond",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "70CBA84E-5093-4FE9-A3AB-7148E403DC57",
+    "termID" : "51980FB4-F9F3-4518-817F-FCC68C17354E",
+    "value" : "Toon alles",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A469EF8E-F4B6-4015-ACB5-8BAEB13B8CCF",
+    "termID" : "52BEADA1-3AB4-4005-A2DB-76DF706B84CE",
+    "value" : "Verberg andere",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "666F622E-D4B4-471C-80C0-541E66DCF250",
+    "termID" : "534C8E90-40BA-46A2-8378-20533F0E58BF",
+    "value" : "Verberg Lingu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "56D1A2F4-0DAB-464F-8DF2-5A92A7516B17",
+    "termID" : "5561EA5F-3F2D-4302-A0FE-CA8B6B2839B6",
+    "value" : "Pagina instellingen…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "EE287C4E-B6C6-4988-A183-713446478628",
+    "termID" : "55ADD3A3-3B7D-4C71-B374-825999831DCD",
+    "value" : "Help",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "06918037-DD79-41B3-B27E-F4E33F64ED4F",
+    "termID" : "55B9EF94-FAFA-4FAE-B34A-D78B042A7D72",
+    "value" : "Sleutel",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "ED347DDF-105C-4956-B9F3-168864D004A6",
+    "termID" : "55CFD04C-2422-4CF9-9815-DBFC6A02278F",
+    "value" : "Zet om in hoofdletters",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9ACF8EC1-95BC-4824-89EF-E2A5AF9200BB",
+    "termID" : "55E10678-7FFD-4887-AD18-8E97D5726920",
+    "value" : "Aankopen herstellen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "28F6A062-A3E4-4C57-96E8-52467D59640E",
+    "termID" : "569803EF-DE2B-4F2B-BA38-A88197A8F3F5",
+    "value" : "Zoek",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DA49B3C2-882C-4DD0-ACFD-BC2E99D48E32",
+    "termID" : "574C5679-1FDE-429F-A5FA-0D2FD7BCD48D",
+    "value" : "Open…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D89B95F5-9DC0-4A9C-AF65-CDF292B19D8D",
+    "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
+    "value" : "Waarschuwing",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "641FC38D-1485-4944-A1AA-C24900E431C0",
+    "termID" : "5DBF5DE4-A80A-4412-9D73-CC542A7E5E40",
+    "value" : "Verwijder",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "708AFE4A-A265-47AD-82AB-B96BA9390770",
+    "termID" : "60CE0BF4-1C00-4103-9A00-43DF86E4E2F3",
+    "value" : "Voorzieningen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "BB73F083-64FC-4EB5-9F29-B29180791DC6",
+    "termID" : "6115E066-DBC0-43C2-A0B3-30C8734A39F7",
+    "value" : "Nieuwe term",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "74EF804A-C2DA-4AFB-AF91-9835D618AF8D",
+    "termID" : "63DCA2BB-FDBB-4206-8EF4-7AA7690B875B",
+    "value" : "Herstel",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "CA856236-B34B-4CA5-94ED-98965326F608",
+    "termID" : "6636E348-D362-4471-8DAA-927EB17579D4",
+    "value" : "Talen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5BD15EC4-53DC-40F5-B220-CD27D69CA4FC",
+    "termID" : "6653609D-D92A-47BA-B799-242FE28619FC",
+    "value" : "Sluit",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "6F9703D6-DDD0-47DA-99D0-F122D7DE0B34",
+    "termID" : "682C2BE2-1A31-47DF-83BC-09A5E74322FF",
+    "value" : "Referentietaal",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B7D52280-9E5F-43B1-89B4-CAEF9A2C1C8D",
+    "termID" : "68B60AF3-B4C3-4961-B2C6-C2D443D4F375",
+    "value" : "Vertalen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3CEA547B-ECE0-4DF1-88A0-3AC69FDACE8D",
+    "termID" : "6A86EE13-3E35-414B-A5E1-5698FC5CA26E",
+    "value" : "Ontgrendel Pro",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "51EA90B5-EF4E-46DF-978D-8DEB997B01D4",
+    "termID" : "6BA6CA2F-CD69-478D-B2D9-86F6EB129BDF",
+    "value" : "Venster",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5483740D-CC3C-4D61-819A-823A5A266225",
+    "termID" : "6DFA7839-FA85-4FEE-95D9-7EB973182498",
+    "value" : "Tags verwijderen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "90871139-F2A3-41AC-A0BC-6BF9E9519E03",
+    "termID" : "6ED71BB2-EE71-4D62-A96D-F149F6A6B7D7",
+    "value" : "Lingu is bedoeld als alternatief voor grotere vertaalplatforms zoals Phrase of POEditor, die vanwege de maandelijkse prijzen niet mogelijk zijn voor kleine ontwikkelaars of individuele ontwikkelaars.\n\nJe hebt Lingu Pro al ontgrendeld. U kunt nu alle functies onbeperkt en onbeperkt gebruiken.\n\nDank je!",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "323AF82A-5EC7-40AD-89FA-E5ED1D8917BD",
+    "termID" : "6EFE7DD4-9726-4ADB-97D8-5F21865C7D12",
+    "value" : "Pas knoppenbalk aan…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "816E0898-FF56-409C-B9D7-466C3BC71D69",
+    "termID" : "6F01B5C5-5093-4632-80DA-6023F6245500",
+    "value" : "Vervangingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "47A44B4F-E031-4B5D-BFA3-33392ED99693",
+    "termID" : "70B51B13-9342-40E0-AA8D-C193C753A433",
+    "value" : "Vergroot\/verklein",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9F00D99B-F3B5-4EA5-AC24-E541D0B09D27",
+    "termID" : "7240F5C3-DF49-4131-A291-644CABD0317B",
+    "value" : "Plak en pas stijl aan",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "16B3D07F-031F-4876-B3D4-72789354107D",
+    "termID" : "72DD64B0-F284-413A-B489-B5FF18E1979E",
+    "value" : "Vervangingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "539DB68F-C7C3-4584-8AA2-16C8C64C3D16",
+    "termID" : "76C71608-B43D-4B03-A0C6-6E9A1560FBB9",
+    "value" : "Lingu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4E3237B5-6406-4356-8AF6-B7D362726ADF",
+    "termID" : "7782E1D9-5B49-47E0-8A7E-C9BCBFCDA0DD",
+    "value" : "Weergave",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B41D2BB2-3A6F-463E-A3B4-C917B77A8EB7",
+    "termID" : "7F6F13CD-7957-4627-A850-27D89DDE5564",
+    "value" : "Zijbalk weergeven",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "65F4E585-235D-4447-A270-EB4435BEE9AE",
+    "termID" : "7FFE16CA-8245-4B94-A79E-20618C5CEB6F",
+    "value" : "Help",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "EE71710F-85B7-478F-81E1-2460B8320DF9",
+    "termID" : "82296152-EF50-4998-A584-6C12F82464F7",
+    "value" : "Omzetting",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "B00EA42E-D58D-4D34-8603-EA3F20C3B07D",
+    "termID" : "82B71B57-5E2A-48FF-80B6-AD42A7A3E98C",
+    "value" : "Talen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A17948BE-FBAE-446A-B55D-8562CDF7D000",
+    "termID" : "82FE94DF-E3B0-4D51-9517-B64946E9245E",
+    "value" : "U heeft waarschuwingen voor enkele van de bestanden die u wilt exporteren. Negeren en doorgaan met exporteren?",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "FB5E43D9-C335-4A6D-80C6-833D621A2DED",
+    "termID" : "834C6158-8C0D-4AE7-BDBC-2B4EB0569FA0",
+    "value" : "Importeren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0B18962C-6AC5-4AFA-8ECA-B9022DE48F21",
+    "termID" : "84F570F2-F317-4C83-82EA-80147A3C2D3E",
+    "value" : "Wijzig",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "34A5453C-3096-4412-9C42-B390A980080C",
+    "termID" : "856E0390-5DD5-40C5-9C0D-BFEA9904ED73",
+    "value" : "Exporteer Lingu naar uw lokalisatiebestanden",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "972E178D-FD44-4D7D-AB15-EF817DE2AECA",
+    "termID" : "866F4C7B-4CC6-4F28-AF4E-AA726AAAB470",
+    "value" : "Update vertalingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "44226187-7C03-4C6A-971B-BDBFE898DFD6",
+    "termID" : "87028B24-8B18-4211-A352-B803DD0BBC70",
+    "value" : "Kies voor Export",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3F2CE2C2-7E20-4F34-8F64-47EB20863FF7",
+    "termID" : "87D1600A-BDD6-4B75-AD42-594544760BDD",
+    "value" : "Lingu Translate",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9478087A-15CC-47ED-8F5D-8A167993671E",
+    "termID" : "89BC44FB-A73D-4DCA-B72E-42432DE433E0",
+    "value" : "Hier kunt u uw teksten van Lingu naar uw vertaalbestanden exporteren.\nAls alternatief kunt u de teksten ook exporteren met de Lingu CLI.\nU kunt hierover meer informatie krijgen in het menu Help.",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3AC5BF10-102A-4E17-94B8-1AB30EF2C85A",
+    "termID" : "8AB14877-440A-4805-B4C8-F54EC075C299",
+    "value" : "Stop spraakfunctie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "534E2B88-6A63-4EA0-84C7-A9EF74C44AF6",
+    "termID" : "8C10CCB4-FA75-42A6-B360-A1CE2EA21152",
+    "value" : "Slimme aanhalingstekens",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "1941DAB5-A1C8-45D4-B363-57CAABE074E0",
+    "termID" : "8CA3C123-3407-4731-9F66-9821F6E1617C",
+    "value" : "Minimaliseer",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "97FDCE1D-0500-47B0-ACF6-5F8D7F53CF97",
+    "termID" : "8D871FA3-FE86-4750-BFC1-0B245A043E7B",
+    "value" : "Doorgaan met",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9D6C4368-6ECF-4F05-91DD-5D711B9AD08E",
+    "termID" : "8FE3AFC4-9824-42D0-B5FF-37C1446CB56F",
+    "value" : "Zet om in kleine letters",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D45DD4BF-A569-434A-9CB3-0DD5AB3DA403",
+    "termID" : "908ED22C-8C69-4EA1-9C7B-6FC4C13F1BF2",
+    "value" : "Verwijder vertalingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DB2AE8F4-E7FA-4A51-B55C-792AA2B699A9",
+    "termID" : "929A597D-1919-4AB4-831C-E6F3EE95FEF4",
+    "value" : "Exporteren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5A0E7E10-A7CE-47EB-91F9-2F455CCC3971",
+    "termID" : "9374C909-5AE4-4B3C-8033-198187D8BDC4",
+    "value" : "Voorwaarden verwijderen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "FCAB71BE-01FB-4822-B3E0-D3F2D79AC082",
+    "termID" : "93FE6B65-1F25-4478-923E-96CDA126CCF1",
+    "value" : "Update de tagnaam",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "25C1A232-378F-4661-B0B4-6B73A20691BF",
+    "termID" : "94295E9D-9F9E-4DE8-B24B-1921C20A0A6A",
+    "value" : "Doorgaan met",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "963B2ECC-76B9-46E1-9B1D-F6639D7A9B22",
+    "termID" : "956E3A1D-F555-4133-A1BD-46F0CAA3F439",
+    "value" : "Slimme links",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "1DAC3D07-AE12-4372-871C-E48F1BB20C3F",
+    "termID" : "9724BB6D-42FA-4AA4-89E5-CBB81E8A44C2",
+    "value" : "Lingu Pro",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "92160C3B-2A0C-4F80-8903-AB5F075C8284",
+    "termID" : "98A575F5-8E1C-4580-9FBE-1922D5EA958A",
+    "value" : "Slimme streepjes",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "E3155071-B60B-48C5-B198-EAE88683CA82",
+    "termID" : "98CB040F-E94A-464F-89AA-2B95361C82E4",
+    "value" : "Recentelijk geopend",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "55DBC336-95BF-450F-B347-271AD428B44F",
+    "termID" : "98F0D89E-F462-40AE-952A-2F4A9A2DF380",
+    "value" : "Spraak",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D76B5996-0041-454C-924D-7609F1E810B8",
+    "termID" : "9B0F4EA2-7FF4-4052-9C12-2C7D3B3BEBF2",
+    "value" : "Annuleren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "23A43B1A-2C82-4128-9344-15EF4CACEFAB",
+    "termID" : "9BC08706-76BA-4B61-913E-C5EF0C3CC795",
+    "value" : "Menu wissen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "69319C52-9218-4F34-AB86-ED325BB4A9A2",
+    "termID" : "9C138F91-866A-44A3-8E57-76BE68BE458C",
+    "value" : "Wijzig de tagselectie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0414E26E-3186-48F1-8BCC-E4F50C74CA4A",
+    "termID" : "9C965464-5365-47EC-91F5-CE0B214C0CFC",
+    "value" : "Ga naar selectie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9A0BC193-50B0-4008-9BE8-D2A02A52404D",
+    "termID" : "9F6F52EA-9250-4F9E-8B1F-AC52E89B2AD6",
+    "value" : "Importeren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "49C0B4E2-20A8-4312-8F8C-FB80EB6B33F1",
+    "termID" : "9FC78CFA-9E25-4E88-9CC6-D57C17919498",
+    "value" : "Hier kunt u uw vertaalbestanden in Lingu importeren.\nAls alternatief kunt u uw vertaalbestanden ook importeren met de Lingu CLI.\nU kunt hierover meer informatie krijgen via het menu Help.",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7F6CF86C-21AA-4BBF-995C-00BB3BE028D0",
+    "termID" : "A00DD96A-A2A2-4ED7-BF97-16B1D84282AB",
+    "value" : "Voer de import uit",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "C64AF8E7-719F-4263-BA9A-957CD01A6312",
+    "termID" : "A1F1555F-7DB8-4BB0-BB87-11FC9F23C025",
+    "value" : "Kopieer",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "32BB1E95-4478-4938-B90A-97D300A0D947",
+    "termID" : "A5863AD4-7CCB-44D0-81CE-F42E9A228180",
+    "value" : "Voorzieningen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "22DF8869-50D7-4F1D-B349-3B9B0E1747AF",
+    "termID" : "A755ACCF-131D-45BE-B057-1BFAE1B82F03",
+    "value" : "Taal toevoegen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "56FDF488-2A80-4086-83E0-A7D64A0C5114",
+    "termID" : "A7B86E9E-674C-4D81-8FF5-561F191517F5",
+    "value" : "Datadetectie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "07A18BD9-7729-4FB2-942A-251EBE1ED6E9",
+    "termID" : "A8F90F7A-06E6-4467-BEAE-06F52804BD31",
+    "value" : "Formaat",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "26379C13-160B-4E16-92B1-03B449D72AF6",
+    "termID" : "AA74F39A-8BE1-45EB-A255-4C54FF359ABC",
+    "value" : "Waarschuwing",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "CE496877-D95E-4796-BE59-7967F6B677CE",
+    "termID" : "AB5D8000-9D5C-4464-A18A-42E167EE8CA4",
+    "value" : "Referentie %s",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "2278C2E4-171C-428F-AE82-46025224B692",
+    "termID" : "ABADB0A8-C1D3-4999-99E1-0686D92C02F5",
+    "value" : "%s tags geselecteerd",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "8C4906ED-164A-42E8-AA57-472774735221",
+    "termID" : "ABDBAEFA-FDE1-4781-B04C-942DF7A2C785",
+    "value" : "Nieuw",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "F8B1CD66-E9B6-4FE3-A511-177DAD8FC3CA",
+    "termID" : "AC3E3D73-780E-473C-8559-1A3E4D28DE3B",
+    "value" : "Er zijn fouten opgetreden tijdens de vertaling. Sommige teksten konden niet worden vertaald.",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "2A5C6F0E-C752-4034-BC17-96B4E9CE172F",
+    "termID" : "ACEB54E8-5845-49C1-890A-75F5CD68DD6C",
+    "value" : "Controleer document nu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3D737AA9-668C-4EA5-B0E5-6BBB44E0E7CE",
+    "termID" : "B0CCEB64-81D0-4CB8-BC3D-676DF147E540",
+    "value" : "Venster",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DD9042A2-4F86-46EB-9667-423368B20DBB",
+    "termID" : "B2F31B84-8CC0-4F02-9CF6-545450006DE0",
+    "value" : "Weergave",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0D36F1EF-BEAE-4D6E-A4A1-2EFBB7DC46D6",
+    "termID" : "B3F9A6A9-7F68-4BCB-8061-7423F333D0F4",
+    "value" : "Talen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "8A2DF8C7-EC5C-4C02-8C83-65C7486726B6",
+    "termID" : "B41CA821-D4B9-4C19-81CE-E0ABF79B1942",
+    "value" : "Wijs tags toe",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "450FD6E5-0E6C-4D39-A715-738AF4DEC295",
+    "termID" : "B475BF00-0BC1-4D89-AFFE-B0353DFF141E",
+    "value" : "Wijzig",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "95A0F59A-7105-4BB7-A26D-612E85FD38D6",
+    "termID" : "B4B9F341-C9E4-43B4-912C-0657F6AC4579",
+    "value" : "of door uw lokalisatiebestanden te importeren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "F0725737-612E-44DB-8AB6-AD5783083BA8",
+    "termID" : "B4C98E44-ED8B-408A-8027-903AAE90702B",
+    "value" : "Zoek…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "94470691-D3D3-49C2-8119-A84A9336326E",
+    "termID" : "B6D7345D-B651-4E96-9D31-5F3B59DAC3B9",
+    "value" : "Kies uw lokalisatiebestanden",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DB572401-4CC8-4F4A-8F73-E2E941A407D9",
+    "termID" : "B826223C-1646-4457-9120-4F6FC3A76C7A",
+    "value" : "Voer de export uit",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "446F11F6-E6B0-40BF-B74C-870C8F59E4A9",
+    "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
+    "value" : "Wissel bron- en referentievertaling om",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D09DCC72-CBA0-4EA4-A5C0-598B740887D6",
+    "termID" : "BD27C5DC-98E8-4971-AD52-BEF386A66D38",
+    "value" : "Sleutel",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "E9A28FA6-421D-49D3-ABEE-F546F51D812E",
+    "termID" : "BD59615F-3105-4380-9B0F-31D64E8D9F85",
+    "value" : "annuleren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A7538992-BCCF-4295-A58F-46F520E66BBD",
+    "termID" : "BD913A4F-0AB2-45F4-84E6-EA568C36A17D",
+    "value" : "U kunt Lingu tot 200 termen gratis gebruiken zonder enige beperking. Verder moet je \"Pro\" ontgrendelen.",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5FC6C291-C229-45D5-BB93-B86B799EE9BE",
+    "termID" : "BF22A898-99D3-4A5A-AFC9-1820143AE370",
+    "value" : "Controleer grammatica tegelijk met spelling",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4FCA5B64-2C92-4D6F-A9E5-A6B1A9E82BBF",
+    "termID" : "C1AD5509-2C04-45FA-A93D-519330382706",
+    "value" : "Apple woordenlijst",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "87CEB2EC-F7EC-4439-BEC2-57052F99A3A1",
+    "termID" : "C215DCC9-D907-4E42-BBBC-15D0F8B827A9",
+    "value" : "Zoek volgende",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "C7D7FD04-97AB-4FF7-BEEB-6749AF58ED0C",
+    "termID" : "C40BE8E8-DE09-4EAF-822A-A9673FAA2735",
+    "value" : "Pro is ontgrendeld",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "42E7F44F-8DD2-4505-8C08-65D0C35178CA",
+    "termID" : "C4F7FEDC-28D3-4C58-B2D3-D9EB00477430",
+    "value" : "Schakel schermvullende weergave in",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "8E478F4D-48E2-44D8-BDE8-0A15C5160184",
+    "termID" : "C55CE320-7603-4F4F-8666-3EEE53CFFEF9",
+    "value" : "Meerdere",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "E9524A80-00A5-4014-9A20-67DBE4F4EED6",
+    "termID" : "C611FEBB-B454-4BA8-944D-42C7DD6B3D29",
+    "value" : "Taal",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9CBA7339-778A-4A27-88EF-BD8948E5CBA6",
+    "termID" : "C6AB9185-9D35-40F7-A0E9-336D2A140AA5",
+    "value" : "Wissel bron- en referentievertaling om",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "059126BE-07BC-449E-B339-F276779B11EE",
+    "termID" : "C73845A7-078E-4A26-A386-2D9F6EF3DAB1",
+    "value" : "Begin met het toevoegen van een nieuwe taal",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "F713825E-35A1-412D-AED0-2EF3591EC95E",
+    "termID" : "C7EDD639-6837-4F64-83B1-102FF59D243D",
+    "value" : "Zoek vorige",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "72BA8746-7D7C-4565-A131-ECFD4C373DA4",
+    "termID" : "C99440D6-DE65-4D4D-B045-CC180B5B26D4",
+    "value" : "Zoek",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7B21196B-3ACB-4394-8F55-69045CA3CDBB",
+    "termID" : "C9F0C27F-1B6A-4FC2-ADE6-8595F327BCE8",
+    "value" : "Slimme vertalingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "445DA4E7-FF3D-407B-9F71-BCB35D35115D",
+    "termID" : "CB5E0A53-259C-434A-967A-37E7D3D9EBB5",
+    "value" : "Tags",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "AD1BE5DB-8825-49C8-92AB-0F0F9CFCB069",
+    "termID" : "CE355B58-F732-4855-825F-176270B28257",
+    "value" : "annuleren",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "5F5DA6D3-425B-42C6-A874-0183D4EB9619",
+    "termID" : "D17D5E8C-72E0-4657-B735-EF8FB44D8E62",
+    "value" : "Gebruik selectie voor zoekactie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "250B9FE7-EDB5-47FD-9F2E-B0FF0CACF048",
+    "termID" : "D499FCF5-CD62-41A5-8FF8-7710C150894C",
+    "value" : "Verplaats voorwaarden",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7960103F-359A-43D5-8DC0-A2F6CCCE6AD7",
+    "termID" : "D6AC25E9-745F-4914-A3D9-CCA83A23B82A",
+    "value" : "Update sleutel",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "E852CE93-9377-47D0-A3A5-CAA5C48F3A2A",
+    "termID" : "DA2E63FE-41B7-4296-80B3-B6653644AFE8",
+    "value" : "Lingu Help",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7FB672CB-AFC8-43FA-9E54-E3B6EC36DBE7",
+    "termID" : "DCA9B7C8-D213-42BA-ADED-234AA2AB2323",
+    "value" : "Waarschuwing",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "C55E8E85-9ED0-4F0A-A579-335BB2FDBA02",
+    "termID" : "DDF1F43A-4A27-4C87-927E-FCD77CC434D7",
+    "value" : "Opslaan…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "1914FCBB-A4F5-4D24-81C1-74F8ADEAB05C",
+    "termID" : "DE78975D-2ED9-46F9-BEC0-7B4B2374A321",
+    "value" : "Gebruik",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "F5A34149-8919-4A1D-9D39-C0CB14501448",
+    "termID" : "E0C75AAA-1FB0-4500-9EA4-F6D1C48D58C3",
+    "value" : "Verander de referentietaal",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "64097CB4-C8AA-41A8-906D-9D8CF9F294DF",
+    "termID" : "E1F19332-3419-4143-B5B4-0DE030FEA152",
+    "value" : "Ontgrendel Lingu Pro",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "AE542937-A51E-40FD-A71B-BF98FFFC985B",
+    "termID" : "E275DF64-8466-457D-A718-5C725DFB4AC1",
+    "value" : "Sleutel",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "2D8BCFC1-AE83-4E4C-8C82-3CD1557D3502",
+    "termID" : "E2ECBEA6-B165-43CA-A7DC-5FF9A8526665",
+    "value" : "Over Lingu",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D43D6CD6-63BD-4231-A8D4-372C80A9B37A",
+    "termID" : "E4031C90-205B-4578-9850-B9D0E1DE2DC5",
+    "value" : "Zet om in beginhoofdletters",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D23595F8-4572-4BD5-A402-2013B4FA2A79",
+    "termID" : "E4C74771-78B9-4485-8830-20BDDD5A1AFC",
+    "value" : "Druk af…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "06F33824-BF2B-462E-A0BC-90FACEB17D0E",
+    "termID" : "E4F49FCF-7903-422C-859E-61A079D08E1A",
+    "value" : "Opslaan als…",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "3F811373-291C-4AC9-9CAF-ADD53A51BFE3",
+    "termID" : "E800C7D3-E7BC-4CAD-9890-FB14C479E603",
+    "value" : "Lingu is bedoeld als alternatief voor grotere vertaalplatforms zoals Phrase of POEditor, die vanwege de maandelijkse prijzen niet mogelijk zijn voor kleine ontwikkelaars of individuele ontwikkelaars.\n\nU kunt Lingu, tot een aantal van 200 termen, gratis en onbeperkt gebruiken en ontdekken of Lingu voldoende is voor uw behoeften.\n\nZodra u erachter bent gekomen dat Lingu aan uw behoeften voldoet, of u meer dan 200 voorwaarden wilt beheren, moet u \"Pro\" activeren met een eenmalige in-app-aankoop.",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "C8528590-8665-4B6D-A947-01F235A48D80",
+    "termID" : "E81AEC68-A19F-435D-83DE-A70C0713E822",
+    "value" : "Slim kopiëren\/plakken",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "0F64EC62-AF28-4E78-BC99-82AD7D30806C",
+    "termID" : "EA65F4F7-B159-4EA3-B972-B9363BE6BD07",
+    "value" : "Organisatie",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A5026ABD-D39F-40A9-BE77-7421716C5014",
+    "termID" : "EB396B45-5C0B-458A-A64B-0A34DBAAFE3A",
+    "value" : "Verberg ongewijzigd",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "439F3AD8-F8BD-4E8B-92C8-0D1781282012",
+    "termID" : "EB3D5287-61CA-4231-AFB9-F3EEF40AE9AF",
+    "value" : "Opnieuw",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "8F0A378F-4A45-4007-A1BF-EFD9AEBD309D",
+    "termID" : "ECEA41E9-2752-4C18-BBDA-22EFE3724101",
+    "value" : "Bron %s",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "D1293FBA-8251-40E1-A102-08043034248C",
+    "termID" : "EED65977-EC44-4ECE-9BBC-C5FB3CF901F4",
+    "value" : "Selecteer alles",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "648DE99B-A4C4-4319-8983-4BDF2C91820F",
+    "termID" : "EFB1BEDB-63CA-494F-ACC0-F271113302A7",
+    "value" : "Update de vertaling",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DFD27359-39A8-4311-968C-EE6B550FD2C7",
+    "termID" : "F19DE279-E763-4139-9388-A414ACFE9B64",
+    "value" : "Naam",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "DCDAB6EB-C4BE-4B54-BEE0-BAC733BA0B93",
+    "termID" : "FA38E40A-B475-47C5-94F3-063788ED0099",
+    "value" : "Knip",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "E578B875-BF87-47C2-9CEA-E3641B4CA1B8",
+    "termID" : "FAED305C-757E-4438-BBE4-BAD50D9E7AB8",
+    "value" : "Taal",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "7D0CFE3C-F040-415F-9878-DCE42CF4949E",
+    "termID" : "FB335DC3-B6D1-4FAA-AFC4-8B4E2B282DD3",
+    "value" : "Nieuw in deze versie:\n• U kunt nu filteren op tags voor een beter overzicht\n• Naast exporteren via de CLI, kunt u uw gegevens nu ook rechtstreeks exporteren in de Lingu-app\n• Verdere instelmogelijkheden voor het importeren \/ exporteren in uw .lingu.yml (format_options)\n• Elk Lingu-document heeft nu een unieke ID (Your-File.lingu\/meta.json)\n• Nieuwe talen: Nederlands, Frans, Hindi, Pools, Portugees, Spaans, Zweeds\n\nBugfixes:\n• Bugfixes bij het toevoegen \/ verwijderen van termen terwijl u in tekstinvoer bent\n• Bugfixes met betrekking tot de positie van nieuw ingevoegde termen terwijl de weergave wordt gefilterd\n\nHeeft u vragen, suggesties voor nieuwe functies, ontbrekende formaten of wilt u helpen met het vertalen van de app? Schrijf een e-mail naar:\nchristoph@pageler-software.de",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "BBBD0F45-0724-40B0-8217-C3DF5036996E",
+    "termID" : "FCE43E27-FD06-4A8B-80D4-908FD4503553",
+    "value" : "Formaat",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "4D9A8EBE-D82E-4C8F-8FF2-C655AD0B1F50",
+    "termID" : "FD6383DA-9D51-4640-A6D3-97F929F3ED0D",
+    "value" : "Archief",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "F1B14C97-2A1C-4674-B3D3-ED07F29AADAA",
+    "termID" : "FDA6CA26-C567-4BF6-9322-6C1E923304D9",
+    "value" : "Plak",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "9A1FB9F8-FC63-4BA9-A724-98914D1E0B31",
+    "termID" : "FE319498-B978-4F2E-A6FA-70F31A548357",
+    "value" : "Voeg bestanden toe met de + knop\\nof zet bestanden hier neer",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "A1C2FFAC-11C4-414B-84BF-3F7BE66B3AC7",
+    "termID" : "FE4DFF92-6C80-4814-8352-B8484FC17137",
+    "value" : "Google Vertalen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  }
+]

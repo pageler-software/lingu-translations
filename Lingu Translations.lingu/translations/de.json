@@ -1,0 +1,1076 @@
+[
+  {
+    "id" : "3D2335E0-8D03-4ACD-AA30-7F099A5B8FB7",
+    "termID" : "01B8F995-6368-4424-8B04-77D37A8D71E6",
+    "value" : "Lingu",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "470331B2-1832-4996-8820-E66A1B063472",
+    "termID" : "025C673D-68DB-4EAC-89B5-185B67257014",
+    "value" : "Symbolleiste einblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B21E51E2-545D-450C-87A6-268B35D78716",
+    "termID" : "04DD7C85-75F0-4464-BC83-FC4416C4264D",
+    "value" : "Tags zuweisen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "101717CB-2FB0-4FF1-BB27-6B896D4EEF1D",
+    "termID" : "066C3E21-8DBC-44CE-B268-AF5C43BE3311",
+    "value" : "Wähle deine Datei für den Export aus",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9F909340-6627-4C7B-BA39-C9DDE0434EFE",
+    "termID" : "06E5A5E0-D9FF-4354-AD44-FD3D5F83FD41",
+    "value" : "Tags auswählen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "EB664FC3-8355-4F61-BE94-C09BDA47120B",
+    "termID" : "088831AD-05D9-41F1-B2E9-545224E91034",
+    "value" : "Übersetzung(en) löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1BB68A5C-43D7-4BB7-A399-B90BF610CED3",
+    "termID" : "08D99BF1-0FA7-418C-B178-A046EA5CC90B",
+    "value" : "Importieren…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "38149ADB-E09A-4616-9919-9DBD23F133A7",
+    "termID" : "0AFFE9E2-B208-4B79-AF9F-EB8C51693578",
+    "value" : "Open Recent",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "EAB4C252-3BDC-4E79-9CA3-D8BEF7E995DA",
+    "termID" : "0D2510DC-6330-434C-B3A5-8A1A3F3C3893",
+    "value" : "Weiter",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "DFBB7E2A-679B-4DA6-BDAC-F898AB91D348",
+    "termID" : "0E02C0D0-BE0A-4C07-A9D4-67ACA0BEF87E",
+    "value" : "Suchen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9F91D407-834C-428F-85DA-C38C78F473FE",
+    "termID" : "0E523BE3-E124-4E26-B8AD-E038FFDACDE3",
+    "value" : "Fenster",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "529F1153-B204-44E1-8AB0-B90B9DDE4045",
+    "termID" : "0FAF6C4F-FD9F-427D-89A3-2FBF8F27795E",
+    "value" : "Einstellungen…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "95C9D6BC-AF1E-4407-A785-66590F8837B2",
+    "termID" : "136821E2-08A8-43A2-9AF5-4D17C911BA8C",
+    "value" : "Sprachausgabe starten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C2012E66-8BF6-46FD-96CD-72F0731C10AE",
+    "termID" : "1630AA01-6E6E-4558-9ED0-6DDA34F24F23",
+    "value" : "Suchen und Ersetzen…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A4E2988D-BC13-45A3-B470-F2BB32AFB1C4",
+    "termID" : "17729AA3-0D0D-4B2C-B4F0-FB9B26CAB320",
+    "value" : "Aktion",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7D8DE484-88C8-4AE7-B711-2B52B6A979BA",
+    "termID" : "1BD5E5D5-C3B5-40D2-8159-AC70ED1B88B6",
+    "value" : "Tags zuweisen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E6C1C858-BD67-41EE-93F6-1EADC340A798",
+    "termID" : "1C325699-5240-4963-9998-D62A1F0B5CC8",
+    "value" : "Pro für %s freischalten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1B08F9FA-6B10-43AF-829D-34F8307D828A",
+    "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
+    "value" : "Neuer Tag",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "3866015F-D78C-4137-AE10-1337406C36C9",
+    "termID" : "20951BFE-5488-4D4D-A811-A1F8896BCC8A",
+    "value" : "Löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C9580AC0-4CEB-4547-9531-E83D9B8DB30C",
+    "termID" : "2267B481-B96B-4025-821F-1772E4C1D54E",
+    "value" : "Ersetzungen einblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C0232503-1898-4790-88EE-103DD14ADA03",
+    "termID" : "22A8A4BA-0F16-4991-A402-8917FF124CD0",
+    "value" : "Rechtschreibung automatisch korrigieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D3D65138-865F-4016-BA88-4792DA1FDF20",
+    "termID" : "23620136-3E58-414D-9214-02C30E466B63",
+    "value" : "Rechtschreibung und Grammatik",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "6300A488-3D76-40A6-B7B8-7BCC31590656",
+    "termID" : "23682E07-57AD-4DFA-96C1-57952F7ACF79",
+    "value" : "Importiere deine Übersetzungsdateien zu Lingu",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D6AB8D96-1539-41A1-A542-7B1EA5A9547C",
+    "termID" : "24EA51F1-CD8B-4FBF-AA04-C39C7EE14ACC",
+    "value" : "Lingu Beenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "00DC5C07-3821-44CE-B6DD-24FDC277EEF9",
+    "termID" : "277DFC79-45ED-4D4D-BDE6-F716E6ED93DA",
+    "value" : "Tags",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "69959DFE-CBFB-418B-B454-30DD80BDA03C",
+    "termID" : "2BD4EEE4-16CE-41B1-A59E-55DAA3A02DA7",
+    "value" : "Weiter",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "854300E0-2EA4-4036-B0FE-E0A4D0F4CF18",
+    "termID" : "2DD94E55-8590-4A20-8D6A-6B09EF982CF1",
+    "value" : "Abbrechen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9FE1BA44-9B76-4A83-A255-03B537CB8E94",
+    "termID" : "2E808426-77B6-4401-B0F8-97D980320EAC",
+    "value" : "Abbrechen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "4AD81874-130B-4F76-8A0B-4EC6C7AC8036",
+    "termID" : "2E81809A-07E0-4515-9174-3398127F9E7A",
+    "value" : "Text ersetzen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "03516AC0-09D6-43B4-A397-F007EC050D4C",
+    "termID" : "2FDB58F1-E1EC-42A0-BDC5-6366C337CF6C",
+    "value" : "%s Tags zugewiesen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2268DD90-8D08-4667-8252-82D588E27145",
+    "termID" : "308D28A7-06A8-49DF-90EB-15D9AD4D17CC",
+    "value" : "Detail",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7D543466-3332-4070-9560-7CFAEC8025E3",
+    "termID" : "397AD980-D74B-4364-9003-A8F85FBB3FB3",
+    "value" : "Sprache löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2E92F8BB-32BC-44F2-B5E4-E0D3A1ED74D4",
+    "termID" : "3B537FE1-FF88-4965-A921-B1CAB56ACE4B",
+    "value" : "Pro",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "6D076E37-F7A6-420E-8975-2A7CC20B5E90",
+    "termID" : "3B6E249C-DD17-4A87-A876-F074C913E220",
+    "value" : "Rechtschreibung und Grammatik einblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "64346BCD-BA27-47BD-9AE8-8C76D6BE86A6",
+    "termID" : "3CE9068B-56CE-4072-AA0F-8680C6338351",
+    "value" : "Suchen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "58775522-A9F7-4D64-BEC8-27CD1F5E548F",
+    "termID" : "3CED0B43-E704-430A-B53B-5FE494F951EE",
+    "value" : "Du hast Warnungen für einige deiner Dateien die du importieren möchtest. Ignorieren und importieren?",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "02BAA19F-61BA-42E0-914B-68B4685F8401",
+    "termID" : "3DB37ACB-2266-4C98-8D84-6021BB1FE9BD",
+    "value" : "Pro erforderlich",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D6864949-E703-4608-A0F4-3990CF88BC33",
+    "termID" : "3DF8BB55-1C7D-48EF-A312-5C0DACA03E71",
+    "value" : "Sprachausgabe",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "12C0D0CE-563F-4B9A-83C9-81C5B70BFBFA",
+    "termID" : "40AE0698-5EC5-40B2-AAE3-28E4DA264E1F",
+    "value" : "Ablage",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "EC2CE0C5-7204-43CB-9C69-BEAACEEDFE3C",
+    "termID" : "4121857E-6BF3-4E42-B8D0-B2D6B61DE0B5",
+    "value" : "Nur ausgewählte Tags anzeigen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2B5DC43E-25F0-4162-935D-7784258C8D2E",
+    "termID" : "41765766-62F8-43A5-BD40-0045592FD38B",
+    "value" : "Rechtschreibung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1D5C6E4C-9847-47A1-A516-ABE52343B5E2",
+    "termID" : "424D1101-2696-477E-A186-2B50B7C7CE68",
+    "value" : "Lingu ist eine App die es dir sehr einfach macht deine Übersetzungen zu bearbeiten und bietet somit eine super Alternative zu größeren Übersetzungsportalen wie Phrase oder POEditor, bei denen du monatlich Geld bezahlen musst.\n\nLingu kommt von Entwicklern für Entwickler (und auch für deine anderen Team Mitglieder, die dir beim Übersetzen helfen), daher gibt es einige besondere Funktionen, die dich vielleicht überzeugen die \"Pro\"-Version freizuschalten. Ohne \"Pro\" freigeschaltet zu haben, kannst du Lingu mit bis zu 200 Begriffen, ohne weitere Einschränkungen testen und feststellen ob Lingu deinen Erwartungen stand hält.\n\nBist du von Lingu überzeugt, oder musst du mehr als 200 Begriffe bearbeiten, kannst du \"Pro\" mit einem einmaligen In-App Kauf freischalten.\n\nÜbersicht der Funktionen, die dir Lingu (mit und auch ohne \"Pro\") bietet:\n\nOptimiert für VCS wie z.B. Git\n• Lingu arbeitet mit .lingu-Dateien die du einfach in dein Repository einchecken kannst\n• Die .lingu-Dateien basieren auf reinem Text und sind somit leicht nachzuvollziehen\n\nAutomatische Übersetzungen\n• Übersetze deine Texte automatisch mit Google Translate oder dem Apple Wörterbuch\n\nLingu CLI\n• Automatisiere deinen Übersetzungesprozess mit der eingebauten CLI\n• Importieren und Exportieren der Übersetzungen in deine Projekt Dateien fällt somit sehr leicht\n\nFür den Import\/Export unterstützte Formate:\n• Apple Strings (.strings)\n• Android XML (.xml)\n• Einfaches JSON (.json)\n\nDein Format fehlt? Es gibt eine Funktion, die du ganz dringend benötigst, Lingu sie aber nicht bietet?\nSchreib mir eine Nachricht an christoph@pageler-software.de",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8C2758F6-CBDD-475B-8E31-2C9D057681FC",
+    "termID" : "445CFB96-7E8B-44A9-BEB8-55EF0486DD01",
+    "value" : "Während der Texteingabe prüfen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "492F885A-938D-436A-A68D-30768FCC02FD",
+    "termID" : "4C1AA470-65F1-4AAA-BDC9-F16D995AF9B8",
+    "value" : "Übersetzung(en) löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5143DE66-ED65-4691-85FF-13F778EB8E9D",
+    "termID" : "4FDEF4F1-D530-45D0-BAC7-2D7B6A6C2A7F",
+    "value" : "Transformationen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D58CD8C2-7DFD-4155-9BD0-89E07D69F37A",
+    "termID" : "50499E6B-209E-47B2-B253-CB82099317AD",
+    "value" : "Alle nach vorne bringen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8834A45F-04DB-404F-855E-71E87BD6EC7A",
+    "termID" : "51980FB4-F9F3-4518-817F-FCC68C17354E",
+    "value" : "Alle einblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "AAD533A2-1B09-4F23-900D-EA43594F445A",
+    "termID" : "52BEADA1-3AB4-4005-A2DB-76DF706B84CE",
+    "value" : "Andere ausblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "72F5957A-9B14-41E2-B101-53322D4758E0",
+    "termID" : "534C8E90-40BA-46A2-8378-20533F0E58BF",
+    "value" : "Lingu ausblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E95575EE-DFD6-410C-8FD2-E60D77B38376",
+    "termID" : "5561EA5F-3F2D-4302-A0FE-CA8B6B2839B6",
+    "value" : "Papierformat…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "837BC53C-6FD6-4C12-B6CC-70962DAC70EE",
+    "termID" : "55ADD3A3-3B7D-4C71-B374-825999831DCD",
+    "value" : "Hilfe",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5057BE67-CD82-4219-AE12-FC127F70F0DF",
+    "termID" : "55B9EF94-FAFA-4FAE-B34A-D78B042A7D72",
+    "value" : "Begriff",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8DAB364B-F4F9-4EF9-88DB-0A598BC313AF",
+    "termID" : "55CFD04C-2422-4CF9-9815-DBFC6A02278F",
+    "value" : "Großbuchstaben",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C7564C9B-488D-4E4C-8801-B737092DF27F",
+    "termID" : "55E10678-7FFD-4887-AD18-8E97D5726920",
+    "value" : "Käufe wiederherstellen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5722780E-FEE6-4C31-B28D-A7B1AF9370C6",
+    "termID" : "569803EF-DE2B-4F2B-BA38-A88197A8F3F5",
+    "value" : "Suchen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "67FBE633-636C-4978-89AE-CB187FB6A3BD",
+    "termID" : "574C5679-1FDE-429F-A5FA-0D2FD7BCD48D",
+    "value" : "Öffnen…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7337B670-3000-4196-B9C3-3C6E909A0129",
+    "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
+    "value" : "Warnung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "83C20C9F-684D-4A52-9DC4-C25367DEFEA3",
+    "termID" : "5DBF5DE4-A80A-4412-9D73-CC542A7E5E40",
+    "value" : "Löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "3421D90F-187F-4519-AB73-A38EB84C20EF",
+    "termID" : "60CE0BF4-1C00-4103-9A00-43DF86E4E2F3",
+    "value" : "Dienste",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7EBF0C76-3034-479A-A1EA-B33AB812A0E1",
+    "termID" : "6115E066-DBC0-43C2-A0B3-30C8734A39F7",
+    "value" : "Begriff Key",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E9B14DC6-0520-425A-BC28-532FB5EA730B",
+    "termID" : "63DCA2BB-FDBB-4206-8EF4-7AA7690B875B",
+    "value" : "Widerrufen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D793382B-E50F-4EF9-9225-1461324B3BDC",
+    "termID" : "6636E348-D362-4471-8DAA-927EB17579D4",
+    "value" : "Sprachen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "FD6FF2FB-3986-49A6-812F-E83AA859D3E2",
+    "termID" : "6653609D-D92A-47BA-B799-242FE28619FC",
+    "value" : "Schließen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "446161AC-1DF6-46CC-9AAA-7DA3720FE042",
+    "termID" : "682C2BE2-1A31-47DF-83BC-09A5E74322FF",
+    "value" : "Referenz Sprache",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "CA233928-1E99-47E7-8A8C-83F3689046F7",
+    "termID" : "68B60AF3-B4C3-4961-B2C6-C2D443D4F375",
+    "value" : "Übersetzen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8EA9BDE2-BDD6-4DA2-A55F-2136D181E7DD",
+    "termID" : "6A86EE13-3E35-414B-A5E1-5698FC5CA26E",
+    "value" : "Pro freischalten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "0423F9A5-375A-4CC9-9540-F2E0646D4B9D",
+    "termID" : "6BA6CA2F-CD69-478D-B2D9-86F6EB129BDF",
+    "value" : "Fenster",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7C837BE5-F515-46FC-9B36-667DF3ACD9F7",
+    "termID" : "6DFA7839-FA85-4FEE-95D9-7EB973182498",
+    "value" : "Tags löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "DC4FDE63-D68C-4DE1-9520-0BA322F1A2AE",
+    "termID" : "6ED71BB2-EE71-4D62-A96D-F149F6A6B7D7",
+    "value" : "Lingu soll eine Alternative zu größeren Übersetzungsplatformen wie Phrase oder POEditor darstellen, die z.B. für kleine Entwicklungsfirmen oder einzelne Entwickler aufgrund der monatlichen Preise nicht in Frage kommen.\n\nDu hast Lingu Pro bereits freigeschaltet. Somit kannst du nun alle Funktionen uneingeschränkt und ohne Limits verwenden.\n\nDanke!",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D7323434-ED47-435F-A9E2-CCEC66568972",
+    "termID" : "6EFE7DD4-9726-4ADB-97D8-5F21865C7D12",
+    "value" : "Symbolleiste anpassen …",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9DA3EFD9-D55A-4FFA-9B54-23C68D02B42F",
+    "termID" : "6F01B5C5-5093-4632-80DA-6023F6245500",
+    "value" : "Ersetzungen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1B77546F-0DD7-4D2D-A0BE-CE48F2CF39D1",
+    "termID" : "70B51B13-9342-40E0-AA8D-C193C753A433",
+    "value" : "Zoomen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "DD641D47-FA7D-4DBE-824E-C2AF203D55E1",
+    "termID" : "7240F5C3-DF49-4131-A291-644CABD0317B",
+    "value" : "Einsetzen und Stil anpassen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B1C9E858-9D11-4C19-BBA5-72956AC46BEB",
+    "termID" : "72DD64B0-F284-413A-B489-B5FF18E1979E",
+    "value" : "Ersetzungen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "CF9E4ADF-F36E-4028-9D95-2A4DB1F11223",
+    "termID" : "76C71608-B43D-4B03-A0C6-6E9A1560FBB9",
+    "value" : "LinguApp",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "59C9C348-DE58-4009-A514-A77AA62240D9",
+    "termID" : "7782E1D9-5B49-47E0-8A7E-C9BCBFCDA0DD",
+    "value" : "Darstellung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "CDE88BBC-D256-4AEF-9BD7-DECC094A1613",
+    "termID" : "7F6F13CD-7957-4627-A850-27D89DDE5564",
+    "value" : "Show Sidebar",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C8B2B9CE-B1F2-4011-BEBD-DA258C064C8B",
+    "termID" : "7FFE16CA-8245-4B94-A79E-20618C5CEB6F",
+    "value" : "Hilfe",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A6CCB2BC-F357-4BE5-BC03-AFE03711454C",
+    "termID" : "82296152-EF50-4998-A584-6C12F82464F7",
+    "value" : "Transformationen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "991E15EB-1360-400B-BE7F-A23928BF3F58",
+    "termID" : "82B71B57-5E2A-48FF-80B6-AD42A7A3E98C",
+    "value" : "Sprachen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "6BE395C3-F797-4712-B41E-3DD9BCFA2957",
+    "termID" : "82FE94DF-E3B0-4D51-9517-B64946E9245E",
+    "value" : "Du hast Warnungen für eine deiner Dateien die du exportieren möchtest. Ignorieren und exportieren?",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8F5C1EAD-7C7D-42DA-B2CF-A28FD7CCAFCD",
+    "termID" : "834C6158-8C0D-4AE7-BDBC-2B4EB0569FA0",
+    "value" : "Importieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "07BFCC16-F0F7-48CE-96E5-DA590107C69E",
+    "termID" : "84F570F2-F317-4C83-82EA-80147A3C2D3E",
+    "value" : "Bearbeiten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5FEFFE49-0A93-4ECC-8618-B609AC75789E",
+    "termID" : "856E0390-5DD5-40C5-9C0D-BFEA9904ED73",
+    "value" : "Exportieren Lingu in deine Übersetzungsdateien",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2605B754-2429-498D-B015-F4A16CAF6AF8",
+    "termID" : "866F4C7B-4CC6-4F28-AF4E-AA726AAAB470",
+    "value" : "Übersetzungen aktualisieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "FDA7BEDE-4968-4465-B6DE-B5A6AEBF0F17",
+    "termID" : "87028B24-8B18-4211-A352-B803DD0BBC70",
+    "value" : "Für Export auswählen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7B128C09-AADD-4710-8757-4BEBC2F6B200",
+    "termID" : "87D1600A-BDD6-4B75-AD42-594544760BDD",
+    "value" : "Lingu Translate",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9F0D16EB-9BF4-4E2A-91F9-D8042C74A2A4",
+    "termID" : "89BC44FB-A73D-4DCA-B72E-42432DE433E0",
+    "value" : "Hier kannst du deine Texte aus Lingu in deine Übersetzungsdateien exportieren.\nAlternativ kannst du die Texte auch mit der Lingu CLI exportieren.\nWeitere Informationen hierzu erhältst du über das Hilfe Menü.",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "479EBEBE-939B-4F93-B620-4206687458A5",
+    "termID" : "8AB14877-440A-4805-B4C8-F54EC075C299",
+    "value" : "Sprachausgabe stoppen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "46E8CD9A-3A17-4C26-BFB4-DC6D434F448D",
+    "termID" : "8C10CCB4-FA75-42A6-B360-A1CE2EA21152",
+    "value" : "Intelligente Anführungszeichen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "187FE5A5-691C-44E0-9B5C-D20EB22A147B",
+    "termID" : "8CA3C123-3407-4731-9F66-9821F6E1617C",
+    "value" : "Minimieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F68AB40B-62BC-4375-9B4C-5ED31E79E598",
+    "termID" : "8D871FA3-FE86-4750-BFC1-0B245A043E7B",
+    "value" : "Weiter",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7A1763FA-0F9E-4B2D-B5D3-F4BDA0454BF7",
+    "termID" : "8FE3AFC4-9824-42D0-B5FF-37C1446CB56F",
+    "value" : "Kleinbuchstaben",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "56656C56-5755-48D4-B97C-7C6F6F9C822B",
+    "termID" : "908ED22C-8C69-4EA1-9C7B-6FC4C13F1BF2",
+    "value" : "Übersetzung(en) löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A80DE7AD-3DF9-44CE-BE44-D6FD1E392127",
+    "termID" : "929A597D-1919-4AB4-831C-E6F3EE95FEF4",
+    "value" : "Export",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "79080641-9D8A-4BC5-9AE6-B2D1F47D123F",
+    "termID" : "9374C909-5AE4-4B3C-8033-198187D8BDC4",
+    "value" : "Begriffe löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "0D1901AC-07AD-4417-9E41-5ED1306C34C8",
+    "termID" : "93FE6B65-1F25-4478-923E-96CDA126CCF1",
+    "value" : "Tag Namen ändern",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5D15DF91-1850-45D5-AC80-8D04197CEDA5",
+    "termID" : "94295E9D-9F9E-4DE8-B24B-1921C20A0A6A",
+    "value" : "Weiter",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C469C903-AF16-4F7C-B260-6AB514185548",
+    "termID" : "956E3A1D-F555-4133-A1BD-46F0CAA3F439",
+    "value" : "Intelligente Links",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "646C11BA-E447-4A73-B5E7-8B7AB056962B",
+    "termID" : "9724BB6D-42FA-4AA4-89E5-CBB81E8A44C2",
+    "value" : "Lingu Pro",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B716DD3A-84DE-4F8D-90A5-ED7704F79A00",
+    "termID" : "98A575F5-8E1C-4580-9FBE-1922D5EA958A",
+    "value" : "Intelligente Bindestriche",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "AA71EEEC-2BBA-4B27-ADE8-6C8AE4AA4C5A",
+    "termID" : "98CB040F-E94A-464F-89AA-2B95361C82E4",
+    "value" : "Benutzte Dokumente",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E95CA56B-ACF5-4DCC-936C-2597845C29AF",
+    "termID" : "98F0D89E-F462-40AE-952A-2F4A9A2DF380",
+    "value" : "Sprachausgabe",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "0EDB06B4-C5C6-4829-BB42-A08CCA6603FE",
+    "termID" : "9B0F4EA2-7FF4-4052-9C12-2C7D3B3BEBF2",
+    "value" : "Abbrechen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A362ACA8-8C25-4A34-8ED3-29BB8D83480E",
+    "termID" : "9BC08706-76BA-4B61-913E-C5EF0C3CC795",
+    "value" : "Einträge löschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C2721DC6-4F35-4963-B34F-512D9E9C70F3",
+    "termID" : "9C138F91-866A-44A3-8E57-76BE68BE458C",
+    "value" : "Tag Zuweisung ändern",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "72F281B9-A11F-4548-8A1B-3E2D2FDF697D",
+    "termID" : "9C965464-5365-47EC-91F5-CE0B214C0CFC",
+    "value" : "Auswahl anzeigen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7B393811-8F45-4716-B7C8-DDD3E96A1CF3",
+    "termID" : "9F6F52EA-9250-4F9E-8B1F-AC52E89B2AD6",
+    "value" : "Importieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9A28C70F-7BA5-4ACA-B928-4EFB55829CEB",
+    "termID" : "9FC78CFA-9E25-4E88-9CC6-D57C17919498",
+    "value" : "Hier kannst du deine Übersetzungsdateien in Lingu importieren.\nAlternativ kannst du deine Übersetzungsdateien auch mit der Lingu CLI importieren.\nWeitere Informationen hierzu erhältst du überr das Hilfe Menü.",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B95B8711-CE01-4AC7-8DCD-9849C591B679",
+    "termID" : "A00DD96A-A2A2-4ED7-BF97-16B1D84282AB",
+    "value" : "Importieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "EE49B7B3-98BF-453E-B257-9EE7549FFED8",
+    "termID" : "A1F1555F-7DB8-4BB0-BB87-11FC9F23C025",
+    "value" : "Kopieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "25C68A83-53AF-4ED0-B4D3-F060910DFC9D",
+    "termID" : "A5863AD4-7CCB-44D0-81CE-F42E9A228180",
+    "value" : "Dienste",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7D8EFA6B-71C2-48D6-9076-20566AA0C6FA",
+    "termID" : "A755ACCF-131D-45BE-B057-1BFAE1B82F03",
+    "value" : "Sprache hinzufügen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "40BA967D-4A97-4E6A-9D1D-0AF22FE6F6DB",
+    "termID" : "A7B86E9E-674C-4D81-8FF5-561F191517F5",
+    "value" : "Datenerkennung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5C6B141F-B9C6-4E34-BF82-44E3811A4563",
+    "termID" : "A8F90F7A-06E6-4467-BEAE-06F52804BD31",
+    "value" : "Format",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E2588F35-14B8-4ED6-A51F-644D3ECC006B",
+    "termID" : "AA74F39A-8BE1-45EB-A255-4C54FF359ABC",
+    "value" : "Warnung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "DDB370AF-DED4-4C24-B3E3-B9DFEC1237DA",
+    "termID" : "AB5D8000-9D5C-4464-A18A-42E167EE8CA4",
+    "value" : "Referenzsprache %s",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E8865E8E-38EF-4D0C-A83E-2A3140CA1AA0",
+    "termID" : "ABADB0A8-C1D3-4999-99E1-0686D92C02F5",
+    "value" : "%s Tags ausgewählt",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "4BCDAA48-82BE-4745-AA42-5F25B30DD061",
+    "termID" : "ABDBAEFA-FDE1-4781-B04C-942DF7A2C785",
+    "value" : "Neu",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "70C71E0E-7ED8-442E-95E7-46BB4BE6B82C",
+    "termID" : "AC3E3D73-780E-473C-8559-1A3E4D28DE3B",
+    "value" : "Bei der Übersetzung sind Fehler aufgetreten. Einige der Texte konnten nicht übersetzt werden.",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "933C8B76-2A79-4F7D-B44A-CDA41375627B",
+    "termID" : "ACEB54E8-5845-49C1-890A-75F5CD68DD6C",
+    "value" : "Dokument jetzt prüfen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "32BD05C7-8EF6-404B-88BB-85DADDD4F130",
+    "termID" : "B0CCEB64-81D0-4CB8-BC3D-676DF147E540",
+    "value" : "Fenster",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F2A84D8D-FDC0-437F-B10D-A19D62E05D2D",
+    "termID" : "B2F31B84-8CC0-4F02-9CF6-545450006DE0",
+    "value" : "Darstellung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "BE38F3A3-C06E-4641-A6B4-A568357CE597",
+    "termID" : "B3F9A6A9-7F68-4BCB-8061-7423F333D0F4",
+    "value" : "Sprachen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "6EBB1FF2-A945-4BA6-AE49-FF8A7B1B95CD",
+    "termID" : "B41CA821-D4B9-4C19-81CE-E0ABF79B1942",
+    "value" : "Tags zuweisen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1C4B0A42-6574-481D-9E24-FEF2161956B6",
+    "termID" : "B475BF00-0BC1-4D89-AFFE-B0353DFF141E",
+    "value" : "Bearbeiten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E22A3A95-8EC3-4383-94C2-628324F343C7",
+    "termID" : "B4B9F341-C9E4-43B4-912C-0657F6AC4579",
+    "value" : "oder indem Sie Ihre Lokalisierungsdateien importieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "505D019F-8F31-43A1-8B45-FFD9BEFDB474",
+    "termID" : "B4C98E44-ED8B-408A-8027-903AAE90702B",
+    "value" : "Suchen…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "12C1B3F2-67BB-46C5-AE32-F224A7E46474",
+    "termID" : "B6D7345D-B651-4E96-9D31-5F3B59DAC3B9",
+    "value" : "Wähle deine Übersetzungsdateien aus",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B6746CAF-4FCA-487F-9605-45B651DC2474",
+    "termID" : "B826223C-1646-4457-9120-4F6FC3A76C7A",
+    "value" : "Exportieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "033E3D69-B1E0-43F4-96E7-84BD7DDBC1EA",
+    "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
+    "value" : "Ausgangs- und Referenzsprache tauschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "9C6B13ED-8161-4059-B160-F7264E7764B8",
+    "termID" : "BD27C5DC-98E8-4971-AD52-BEF386A66D38",
+    "value" : "Begriff",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "625E6250-E3BD-4A57-97DD-CC4D30454019",
+    "termID" : "BD59615F-3105-4380-9B0F-31D64E8D9F85",
+    "value" : "Abbrechen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "4512B62C-761F-431B-813E-CF3E4C6A468E",
+    "termID" : "BD913A4F-0AB2-45F4-84E6-EA568C36A17D",
+    "value" : "Bis zu 200 Begriffen kannst du Lingu kostenlos ohne Einschränkungen verwenden. Darüber hinaus musst du \"Pro\" freischalten.",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "B120FDB6-7621-4AD7-8E19-1F8B655FE202",
+    "termID" : "BF22A898-99D3-4A5A-AFC9-1820143AE370",
+    "value" : "Rechtschreib- und Grammatikprüfung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "8D85BE2A-52BB-4231-8884-27419EE3030A",
+    "termID" : "C1AD5509-2C04-45FA-A93D-519330382706",
+    "value" : "Apple Wörterbuch",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "552AA5A0-D8E9-4D20-B945-93C16368F8AC",
+    "termID" : "C215DCC9-D907-4E42-BBBC-15D0F8B827A9",
+    "value" : "Weitersuchen (vorwärts)",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "3E6707EF-9B5F-4E88-B616-E74812F463DB",
+    "termID" : "C40BE8E8-DE09-4EAF-822A-A9673FAA2735",
+    "value" : "Pro ist freigeschaltet",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E9BEE17E-72B9-46D7-B566-5C00F786C077",
+    "termID" : "C4F7FEDC-28D3-4C58-B2D3-D9EB00477430",
+    "value" : "Vollbild ein",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1CC53FDA-638B-49D2-A391-A16A2C0E028F",
+    "termID" : "C55CE320-7603-4F4F-8666-3EEE53CFFEF9",
+    "value" : "Mehrere",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F7B09365-F822-421F-921F-0BCC100E34C9",
+    "termID" : "C611FEBB-B454-4BA8-944D-42C7DD6B3D29",
+    "value" : "Sprache",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "189E4B15-4D1E-4539-8570-D51F223458BD",
+    "termID" : "C6AB9185-9D35-40F7-A0E9-336D2A140AA5",
+    "value" : "Ausgangs- und Referenzsprache tauschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E89469CF-B655-4962-AC69-4673E03A5A48",
+    "termID" : "C73845A7-078E-4A26-A386-2D9F6EF3DAB1",
+    "value" : "Fügen Sie zunächst eine neue Sprache hinzu",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "16428B22-802E-415A-B823-59B7B1E47F59",
+    "termID" : "C7EDD639-6837-4F64-83B1-102FF59D243D",
+    "value" : "Weitersuchen (rückwärts)",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "43B7D83B-F1D0-44A8-9111-13736406148E",
+    "termID" : "C99440D6-DE65-4D4D-B045-CC180B5B26D4",
+    "value" : "Suchen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F53EC63C-9216-437D-8A51-7D2DB0AAC894",
+    "termID" : "C9F0C27F-1B6A-4FC2-ADE6-8595F327BCE8",
+    "value" : "Clever übersetzen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "39A52E08-D3D5-40D2-8F07-EBCF7BE3A118",
+    "termID" : "CB5E0A53-259C-434A-967A-37E7D3D9EBB5",
+    "value" : "Tags",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2F166455-DB98-410A-B0BB-117DB8437895",
+    "termID" : "CE355B58-F732-4855-825F-176270B28257",
+    "value" : "Abbrechen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "87E7713A-9842-4291-AF5C-2415A334E1F8",
+    "termID" : "D17D5E8C-72E0-4657-B735-EF8FB44D8E62",
+    "value" : "Auswahl suchen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "3C6AC9E6-3CDF-4DF3-9C1C-B7A7C3D4A8E6",
+    "termID" : "D499FCF5-CD62-41A5-8FF8-7710C150894C",
+    "value" : "Begriffe bewegen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A6723227-0287-4AAD-8E78-064889DFEE2D",
+    "termID" : "D6AC25E9-745F-4914-A3D9-CCA83A23B82A",
+    "value" : "Schlüssel ändern",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E6337C09-5B1B-42D7-A130-941B5E404F7C",
+    "termID" : "DA2E63FE-41B7-4296-80B3-B6653644AFE8",
+    "value" : "Lingu Hilfe",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5DAE5000-FBD3-41E0-BF91-7DB207424EDD",
+    "termID" : "DCA9B7C8-D213-42BA-ADED-234AA2AB2323",
+    "value" : "Warnung",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1497AA6A-FD98-462C-94C4-EE4B9F393ECF",
+    "termID" : "DDF1F43A-4A27-4C87-927E-FCD77CC434D7",
+    "value" : "Sichern...",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "FF9711E4-5E2D-416C-A80C-A78B9F064E74",
+    "termID" : "DE78975D-2ED9-46F9-BEC0-7B4B2374A321",
+    "value" : "Anzahl",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "D99431A1-556F-4A60-A6DD-8DF30747AF4C",
+    "termID" : "E0C75AAA-1FB0-4500-9EA4-F6D1C48D58C3",
+    "value" : "Referenzsprache ändern",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1E743033-60C8-4370-AA04-B0E8C99C6E6C",
+    "termID" : "E1F19332-3419-4143-B5B4-0DE030FEA152",
+    "value" : "Lingu Pro freischalten",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "1825EC46-1C6B-43AA-BD33-CC39102283EE",
+    "termID" : "E275DF64-8466-457D-A718-5C725DFB4AC1",
+    "value" : "Begriff",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F639BF11-401D-4A8F-B26B-3D1483F5537E",
+    "termID" : "E2ECBEA6-B165-43CA-A7DC-5FF9A8526665",
+    "value" : "Über Lingu",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F667FA74-CF1B-4CA4-B1C6-1185E697001F",
+    "termID" : "E4031C90-205B-4578-9850-B9D0E1DE2DC5",
+    "value" : "Großschreiben",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E10323CF-7563-487D-ADAB-1B2EBEE3E097",
+    "termID" : "E4C74771-78B9-4485-8830-20BDDD5A1AFC",
+    "value" : "Drucken…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "66AA6A62-F102-4ED6-AAE7-6980ABAB1BC5",
+    "termID" : "E4F49FCF-7903-422C-859E-61A079D08E1A",
+    "value" : "Sichern unter…",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E76D4103-BA02-491A-9483-5A8915BE14E6",
+    "termID" : "E800C7D3-E7BC-4CAD-9890-FB14C479E603",
+    "value" : "Lingu soll eine Alternative zu größeren Übersetzungsplatformen wie Phrase oder POEditor darstellen, die z.B. für kleine Entwicklungsfirmen oder einzelne Entwickler aufgrund der monatlichen Preise nicht in Frage kommen.\n\nDu kannst Lingu, bis zu einer Anzahl von 200 Begriffen, kostenlos und uneingeschränkt verwenden und herausfinden, ob Lingu für deine Ansprüche ausreichend ist.\n\nSobald du herausgefunden hast, dass Lingu deinen Bedürfnissen entspricht, oder du mehr als 200 Begriffe verwalten möchtest, musst du \"Pro\" mit einem einmaligen In-App Kauf freischalten.",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E14A68D7-8539-4ECF-993C-85FF0CC1CB1C",
+    "termID" : "E81AEC68-A19F-435D-83DE-A70C0713E822",
+    "value" : "Intelligentes Kopieren\/Einsetzen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "E3DCC5A7-E3FE-4E50-A8E9-EAF7B6FDAA2B",
+    "termID" : "EA65F4F7-B159-4EA3-B972-B9363BE6BD07",
+    "value" : "Organisation",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A5442BD1-78F6-404D-886D-DB07E0D3EAB0",
+    "termID" : "EB396B45-5C0B-458A-A64B-0A34DBAAFE3A",
+    "value" : "Unveränderte ausblenden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5A7F4E4B-CA31-43C5-8886-799E947ABAF4",
+    "termID" : "EB3D5287-61CA-4231-AFB9-F3EEF40AE9AF",
+    "value" : "Wiederholen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "713C86CF-6246-4248-AA50-944F7E1EFEE4",
+    "termID" : "ECEA41E9-2752-4C18-BBDA-22EFE3724101",
+    "value" : "Ausgangssprache %s",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "F2AEA549-C835-443F-999F-50B514944E4A",
+    "termID" : "EED65977-EC44-4ECE-9BBC-C5FB3CF901F4",
+    "value" : "Alles",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7BA73FD6-A70E-44AC-A1D6-70923C21E58B",
+    "termID" : "EFB1BEDB-63CA-494F-ACC0-F271113302A7",
+    "value" : "Übersetzung aktualisieren",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "5F03E6BE-CA07-43DA-90C8-8E4973528B2F",
+    "termID" : "F19DE279-E763-4139-9388-A414ACFE9B64",
+    "value" : "Name",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "2D426AFD-14DC-4F49-809C-124907C499A5",
+    "termID" : "FA38E40A-B475-47C5-94F3-063788ED0099",
+    "value" : "Ausschneiden",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "531ED344-F6F6-4666-9E11-E90C91A9355D",
+    "termID" : "FAED305C-757E-4438-BBE4-BAD50D9E7AB8",
+    "value" : "Sprache",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "944CE0A4-EBA5-4469-8529-635F4F050609",
+    "termID" : "FB335DC3-B6D1-4FAA-AFC4-8B4E2B282DD3",
+    "value" : "Neu in dieser Version:\n• Du kannst jetzt nach Tags filtern um einen besseren Überblick zu bekommen\n• Zusätzlich zum Export über die CLI kannst du deine Daten nun auch direkt in der Lingu App exportieren\n• Weitere Einstellmöglichkeiten für den Import\/Export in deiner .lingu.yml (format_options)\n• Jedes Lingu Dokument hat nun eine eindeutige ID (Your-File.lingu\/meta.json)\n• Neue Sprachen: Niederländisch, Französisch, Hindi, Polnisch, Portugiesisch, Spanisch, Schwedisch\n\nFehlerbehebungen:\n• Fehlerbehebungen beim Hinzufügen\/Löschen von Begriffen während du dich in der Texteingabe befindest\n• Fehlerbehebungen bzgl. der Position neu eingefügter Begriffe während die Ansicht gefiltert ist\n\nDu hast Fragen, Vorschläge für neue Funktionen, fehlende Formate oder möchtest bei der Übersetzung der App helfen? Schreibe eine E-Mail an:\nchristoph@pageler-software.de",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "C22FB736-2BCF-4B0A-9257-07CAF985B313",
+    "termID" : "FCE43E27-FD06-4A8B-80D4-908FD4503553",
+    "value" : "Format",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "336D36A2-AFEE-4692-8256-2C220A86A48D",
+    "termID" : "FD6383DA-9D51-4640-A6D3-97F929F3ED0D",
+    "value" : "Ablage",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "7AE4C37D-52C2-4EA1-9BDD-0804BAF23C09",
+    "termID" : "FDA6CA26-C567-4BF6-9322-6C1E923304D9",
+    "value" : "Einsetzen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "A4BCD722-F7B8-4C9A-A722-2FC14703C8EA",
+    "termID" : "FE319498-B978-4F2E-A6FA-70F31A548357",
+    "value" : "Wähle mit den + Dateien aus\\noder füge sie mit Drag & Drop hier ein",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "91DA4951-10AF-418B-8613-226351B6D096",
+    "termID" : "FE4DFF92-6C80-4814-8352-B8484FC17137",
+    "value" : "Google Translate",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  }
+]
