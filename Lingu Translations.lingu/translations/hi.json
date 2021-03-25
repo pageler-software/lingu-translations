@@ -336,6 +336,12 @@
     "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
   },
   {
+    "id" : "838C0B8A-47F4-4999-BA87-4F256EE8EEEB",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "%s चेतावनियाँ",
+    "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
+  },
+  {
     "id" : "B6BA7318-38B8-46BE-817F-C547D0B39BA6",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "चेतावनी",

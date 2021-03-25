@@ -336,6 +336,12 @@
     "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
   },
   {
+    "id" : "20CFFA42-552D-4CF4-8F60-CA8DDD90E900",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "avisos de %s",
+    "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
+  },
+  {
     "id" : "49E614FE-80BA-4E0A-B4A6-05D341596DC3",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "Aviso",

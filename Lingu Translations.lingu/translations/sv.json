@@ -336,6 +336,12 @@
     "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
   },
   {
+    "id" : "A24F0E45-EE03-498F-B378-A751A3E264BD",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "%s varningar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
     "id" : "2F7FEA47-BB12-40A7-B75F-6AAD06E55609",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "Varning",

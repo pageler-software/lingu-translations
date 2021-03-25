@@ -336,6 +336,12 @@
     "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
   },
   {
+    "id" : "FB2E770C-C310-4B2B-B298-B451E6522E2C",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "%s Warnungen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
     "id" : "7337B670-3000-4196-B9C3-3C6E909A0129",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "Warnung",

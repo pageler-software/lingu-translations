@@ -336,6 +336,12 @@
     "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
   },
   {
+    "id" : "4501409C-8380-4313-8EE0-B9F6B46CA413",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "%s ostrzeżeń",
+    "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
+  },
+  {
     "id" : "404751C1-5DD8-4FBC-A54F-8F931F918678",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "Ostrzeżenie",

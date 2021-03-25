@@ -336,6 +336,12 @@
     "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
   },
   {
+    "id" : "663FCAD4-BA87-40E4-8FD1-3357D7A686B6",
+    "termID" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "value" : "%s waarschuwingen",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
     "id" : "D89B95F5-9DC0-4A9C-AF65-CDF292B19D8D",
     "termID" : "5C2BDE2B-765E-46DF-8D21-612D05012F6B",
     "value" : "Waarschuwing",

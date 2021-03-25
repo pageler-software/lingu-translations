@@ -743,6 +743,13 @@
     ]
   },
   {
+    "id" : "5989BE50-B539-4C98-88D6-86135977BE04",
+    "key" : "sidebar.left.section.languages.issues.tooltip",
+    "tagIDs" : [
+      "F41D2BA1-9832-4FFE-ADD7-7F4F9FFB3998"
+    ]
+  },
+  {
     "id" : "EA65F4F7-B159-4EA3-B972-B9363BE6BD07",
     "key" : "sidebar.left.section.organization.title",
     "tagIDs" : [
