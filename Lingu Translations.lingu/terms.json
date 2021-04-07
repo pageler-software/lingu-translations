@@ -792,6 +792,20 @@
     ]
   },
   {
+    "id" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "key" : "sidebar.right.detail.key.title",
+    "tagIDs" : [
+      "F41D2BA1-9832-4FFE-ADD7-7F4F9FFB3998"
+    ]
+  },
+  {
+    "id" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "key" : "sidebar.right.detail.comment.title",
+    "tagIDs" : [
+      "F41D2BA1-9832-4FFE-ADD7-7F4F9FFB3998"
+    ]
+  },
+  {
     "id" : "C55CE320-7603-4F4F-8666-3EEE53CFFEF9",
     "key" : "sidebar.right.detail.multiple-terms.title",
     "tagIDs" : [

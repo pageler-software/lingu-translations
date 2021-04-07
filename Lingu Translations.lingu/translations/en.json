@@ -102,6 +102,12 @@
     "languageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
   },
   {
+    "id" : "3375038C-A808-49B1-A8B9-16B497AF5104",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Comment",
+    "languageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
     "id" : "1C283B4E-E2C9-4003-8AE5-9FAC467EAB60",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "New Tag",
@@ -789,6 +795,12 @@
     "id" : "FE5E1755-C1D6-4277-B742-0AF6F9708F74",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Swap Source and Reference Translation",
+    "languageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
+  },
+  {
+    "id" : "51108297-CF0D-47AB-AA4C-5D232436F1B3",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Key",
     "languageID" : "43D3B8D3-7DAE-4245-B8A0-44824E4124FB"
   },
   {

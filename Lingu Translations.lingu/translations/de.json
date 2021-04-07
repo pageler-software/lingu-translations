@@ -102,6 +102,12 @@
     "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
   },
   {
+    "id" : "2CFDC93A-C9AB-4DBF-B013-3C0507BF092E",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Kommentar",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
     "id" : "1B08F9FA-6B10-43AF-829D-34F8307D828A",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "Neuer Tag",
@@ -789,6 +795,12 @@
     "id" : "033E3D69-B1E0-43F4-96E7-84BD7DDBC1EA",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Ausgangs- und Referenzsprache tauschen",
+    "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
+  },
+  {
+    "id" : "AB9F321A-BB58-4E8D-94FE-0CE534846938",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Begriff",
     "languageID" : "E4DA5A35-14A2-460B-80D8-294FEA8B4C7D"
   },
   {
