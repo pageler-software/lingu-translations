@@ -102,6 +102,12 @@
     "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
   },
   {
+    "id" : "2D430F7D-A2B9-4207-9E63-18AD4CB20119",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Comente",
+    "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
+  },
+  {
     "id" : "D355485F-5045-44DD-9B31-64296E84D993",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "Nova Tag",
@@ -789,6 +795,12 @@
     "id" : "5A9524E3-8697-4244-AA5F-B7154321ECA7",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Trocar fonte e tradução de referência",
+    "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
+  },
+  {
+    "id" : "5894BDF2-BB92-4A82-821A-AC4A137A2D59",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Chave",
     "languageID" : "C64F5D45-0EA3-4E7A-B028-0A8D8A4B3150"
   },
   {

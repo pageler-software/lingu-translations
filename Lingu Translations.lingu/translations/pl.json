@@ -102,6 +102,12 @@
     "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
   },
   {
+    "id" : "335C3BD2-7DAE-4C19-9B46-9474C88779C4",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Komentarz",
+    "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
+  },
+  {
     "id" : "A700728F-3FB2-4399-8AA1-E43A87DDA577",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "New Tag",
@@ -789,6 +795,12 @@
     "id" : "318EDBFC-8ABD-415C-BC9C-037EBEA24B82",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Zamień źródło i tłumaczenie referencyjne",
+    "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
+  },
+  {
+    "id" : "7A019834-404B-4533-A0A6-09D514A58CC3",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Klucz",
     "languageID" : "59BED879-726A-488E-A0FD-6E0EA21B6656"
   },
   {

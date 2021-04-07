@@ -102,6 +102,12 @@
     "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
   },
   {
+    "id" : "5C02C52B-5E7A-403B-B480-6D26ED42E8D0",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "टिप्पणी",
+    "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
+  },
+  {
     "id" : "5D1B6618-ABD1-47D5-9FAD-04A8EFC31931",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "नया टैग",
@@ -789,6 +795,12 @@
     "id" : "2C809C57-1867-4658-ABEF-7DDCBE28D620",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "स्वैप स्रोत और संदर्भ अनुवाद",
+    "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
+  },
+  {
+    "id" : "F7CFD6F2-008C-4E50-B401-C3DBEB4A0968",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "चाभी",
     "languageID" : "57912044-587A-4C52-98A5-9CE04E9A3D5B"
   },
   {

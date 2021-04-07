@@ -102,6 +102,12 @@
     "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
   },
   {
+    "id" : "64567378-1FFF-4E8B-93FC-4C1EA6733928",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Commentaar",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
     "id" : "01AC6A2E-FEE2-4D64-820E-E011CD1C0F2F",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "Nieuwe tag",
@@ -789,6 +795,12 @@
     "id" : "446F11F6-E6B0-40BF-B74C-870C8F59E4A9",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Wissel bron- en referentievertaling om",
+    "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
+  },
+  {
+    "id" : "23ABF711-3EC6-45AA-BD5E-22B3ED52B551",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Sleutel",
     "languageID" : "38EEB106-1A66-4A49-BE20-7BBA4A170FB8"
   },
   {

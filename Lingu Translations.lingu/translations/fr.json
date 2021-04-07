@@ -102,6 +102,12 @@
     "languageID" : "4E1913EE-D8CB-421B-9237-AE40C27ACBE1"
   },
   {
+    "id" : "1523AC24-EF28-4B53-9739-FE94B5CAF482",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Commenter",
+    "languageID" : "4E1913EE-D8CB-421B-9237-AE40C27ACBE1"
+  },
+  {
     "id" : "9B06D964-6F62-4039-8EF2-AC61B5BCAE90",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "Nouveau tag",
@@ -789,6 +795,12 @@
     "id" : "6588EB69-7F6F-4000-9136-F60D2E947572",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Conversion de source et de référence de swap",
+    "languageID" : "4E1913EE-D8CB-421B-9237-AE40C27ACBE1"
+  },
+  {
+    "id" : "C42F464B-A36B-4AF7-902B-9027459F34ED",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Clé",
     "languageID" : "4E1913EE-D8CB-421B-9237-AE40C27ACBE1"
   },
   {

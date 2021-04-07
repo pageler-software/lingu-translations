@@ -102,6 +102,12 @@
     "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
   },
   {
+    "id" : "CA9D129C-075D-43AA-B2CF-BCDDF16F207D",
+    "termID" : "1D0DEC9A-8646-4CA6-80B2-159FEE77DF06",
+    "value" : "Kommentar",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
     "id" : "757DBAC4-0E15-4B59-8CE5-BCBBD6F1EA6E",
     "termID" : "1F03BFAB-E311-4504-BB4C-CDAB7D5C4674",
     "value" : "Ny tagg",
@@ -789,6 +795,12 @@
     "id" : "B2FCE0F4-0177-4BD5-90AD-AD3CC8EA4922",
     "termID" : "BA3743AC-9FCE-47AF-B89C-3D72AA28FA89",
     "value" : "Byt källa och referensöversättning",
+    "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
+  },
+  {
+    "id" : "48DDC8A6-C795-43B3-A07E-56E6E17F5263",
+    "termID" : "BB0176DE-8FBD-4FAD-81B4-85F199F62408",
+    "value" : "Nyckel",
     "languageID" : "C8B03203-137D-4C44-8C19-3D61A9C5257B"
   },
   {
